@@ -4,6 +4,8 @@ install.packages("pacman")
 pacman::p_load("reshape2", "lefse", "genpathmox", "tidyverse", "dplyr", "compare")
 
 #some coments to this file bla bla bla 
+
+#some web/modifications 
 setwd("C:/Users/Spencer/Box Sync/Keyser Thesis/Data/Functional Traits")
 
 
