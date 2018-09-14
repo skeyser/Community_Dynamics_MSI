@@ -1,0 +1,25 @@
+OBJECTID,LABEL,ALDI,ALFM,ALGS
+1,Background,0,113860,0
+2,Unclassified,0,0,0
+3,"Developed, High ",585,180,3802
+4,"Developed, Medium",1909,2342,7342
+5,"Developed, Low",7044,4115,30293
+6,"Developed, Open Space",1718,703,16198
+7,Cultivated Crops ,1140,0,66657
+8,Pasture/Hay,1497,0,33080
+9,Grasslands/Herbaceous ,5033,1095,19672
+10,Deciduous Forest,16,113,571
+11,Evergreen Forest,24661,4802,76211
+12,Mixed Forest,61,34,648
+13,Scrub/Shrub,7327,2681,14509
+14,Palustrine Forested Wetland ,32780,8568,59099
+15,Palustrine Scrub/Shrub Wetland,22429,1191,16071
+16,Palustrine Emergent Wetland ,3682,851,3923
+17,Estuarine Forested Wetland,0,0,0
+18,Estuarine Scrub/Shrub Wetland ,440,85,1141
+19,Estuarine Emergent Wetland,35813,8723,13003
+20,Unconsolidated Shore ,1936,762,3421
+21,Bare Land ,3273,6825,8698
+22,Open Water,350960,345425,128002
+23,Palustrine Aquatic Bed ,2,4,3
+24,Estuarine Aquatic Bed ,65,22,48

@@ -1,0 +1,25 @@
+OBJECTID,LABEL,LANS,MSJC,MSSH
+1,Background,501605,0,0
+2,Unclassified,0,0,0
+3,"Developed, High ",0,2382,1030
+4,"Developed, Medium",0,6027,2885
+5,"Developed, Low",0,41148,28651
+6,"Developed, Open Space",0,16096,11745
+7,Cultivated Crops ,0,3606,4348
+8,Pasture/Hay,0,11356,5236
+9,Grasslands/Herbaceous ,0,9617,20449
+10,Deciduous Forest,0,1937,346
+11,Evergreen Forest,0,71513,91270
+12,Mixed Forest,0,3927,632
+13,Scrub/Shrub,0,50905,43929
+14,Palustrine Forested Wetland ,735,105483,104447
+15,Palustrine Scrub/Shrub Wetland,5,49044,58142
+16,Palustrine Emergent Wetland ,0,12694,19084
+17,Estuarine Forested Wetland,0,0,0
+18,Estuarine Scrub/Shrub Wetland ,0,403,1220
+19,Estuarine Emergent Wetland,0,57454,69751
+20,Unconsolidated Shore ,0,1473,778
+21,Bare Land ,0,3611,1802
+22,Open Water,43,53532,36586
+23,Palustrine Aquatic Bed ,0,128,7
+24,Estuarine Aquatic Bed ,0,37,33

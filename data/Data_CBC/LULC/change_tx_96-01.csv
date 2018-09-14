@@ -1,0 +1,575 @@
+OBJECTID,Class_Name,TXAR,TXAY,TXBP,TXCC,TXCF,TXCT,TXFR,TXGA,TXGF,TXHO,TXKW,TXLA,TXMM,TXOC,TXOR,TXPA,TXRO,TXSB,TXSR
+1, ,0,0,41642,0,0,2851,0,0,0,0,0,0,0,0,0,0,0,0,15374
+2,Unclassified to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,Unclassified to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,Unclassified to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,Unclassified to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,Unclassified to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,Unclassified to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,Unclassified to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,Unclassified to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,Unclassified to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,Unclassified to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,Unclassified to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,Unclassified to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,Unclassified to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,Unclassified to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Unclassified to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,Unclassified to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,Unclassified to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,Unclassified to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20,Unclassified to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Unclassified to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,Unclassified to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Unclassified to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Unclassified to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Unclassified to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,Unclassified to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,High Intensity Developed to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,High Intensity Developed to High Intensity Developed,0,18184,222,8264,12062,2297,12936,17735,1367,20354,3,126,42,5377,338,2775,1633,8,888
+29,High Intensity Developed to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,High Intensity Developed to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,High Intensity Developed to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,High Intensity Developed to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33,High Intensity Developed to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,High Intensity Developed to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,High Intensity Developed to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,High Intensity Developed to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,High Intensity Developed to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,High Intensity Developed to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,High Intensity Developed to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,High Intensity Developed to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,High Intensity Developed to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,High Intensity Developed to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,High Intensity Developed to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,High Intensity Developed to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,High Intensity Developed to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,High Intensity Developed to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,High Intensity Developed to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,High Intensity Developed to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,High Intensity Developed to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,High Intensity Developed to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,High Intensity Developed to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Medium Intensity Developed to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Medium Intensity Developed to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Medium Intensity Developed to Medium Intensity Developed,186,57549,2371,23319,35971,9014,20930,30479,1664,34069,184,2859,820,11600,1611,10239,7738,379,2640
+55,Medium Intensity Developed to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Medium Intensity Developed to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Medium Intensity Developed to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Medium Intensity Developed to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Medium Intensity Developed to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Medium Intensity Developed to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Medium Intensity Developed to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Medium Intensity Developed to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Medium Intensity Developed to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Medium Intensity Developed to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Medium Intensity Developed to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Medium Intensity Developed to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,Medium Intensity Developed to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,Medium Intensity Developed to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Medium Intensity Developed to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,Medium Intensity Developed to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,Medium Intensity Developed to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,Medium Intensity Developed to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,Medium Intensity Developed to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Medium Intensity Developed to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,Medium Intensity Developed to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Medium Intensity Developed to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,Low Intensity Developed to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,Low Intensity Developed to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,Low Intensity Developed to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,Low Intensity Developed to Low Intensity Developed,1953,49041,9457,17521,14834,6314,25076,14899,3302,38549,278,9168,3753,46895,9297,9616,13446,3444,7791
+81,Low Intensity Developed to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,Low Intensity Developed to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Low Intensity Developed to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,Low Intensity Developed to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,Low Intensity Developed to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86,Low Intensity Developed to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+87,Low Intensity Developed to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Low Intensity Developed to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,Low Intensity Developed to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,Low Intensity Developed to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+91,Low Intensity Developed to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,Low Intensity Developed to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+93,Low Intensity Developed to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,Low Intensity Developed to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,Low Intensity Developed to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Low Intensity Developed to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97,Low Intensity Developed to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98,Low Intensity Developed to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,Low Intensity Developed to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,Low Intensity Developed to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Low Intensity Developed to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,Developed Open Space to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+103,Developed Open Space to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+104,Developed Open Space to Medium Intensity Developed,0,0,0,0,1,0,0,0,0,0,0,0,0,27,0,0,0,0,0
+105,Developed Open Space to Low Intensity Developed,0,0,0,0,12,0,0,0,0,0,0,0,0,184,0,0,0,0,5
+106,Developed Open Space to Developed Open Space,199,47790,244,27193,31893,1124,19241,7881,2009,40276,36,3241,1807,20005,4708,6825,11024,1094,126
+107,Developed Open Space to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,Developed Open Space to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Developed Open Space to Grassland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+110,Developed Open Space to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+111,Developed Open Space to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,Developed Open Space to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,Developed Open Space to Scrub/Shrub,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+114,Developed Open Space to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,Developed Open Space to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Developed Open Space to Palustrine Emergent Wetland,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,Developed Open Space to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,Developed Open Space to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Developed Open Space to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,Developed Open Space to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,Developed Open Space to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,Developed Open Space to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,Developed Open Space to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Developed Open Space to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+125,Developed Open Space to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,Developed Open Space to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Cultivated to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Cultivated to High Intensity Developed,0,28,0,35,14,0,0,0,0,18,0,0,0,0,0,0,0,0,0
+129,Cultivated to Medium Intensity Developed,1,44,0,95,192,0,0,0,2,59,0,0,0,10,0,0,0,0,0
+130,Cultivated to Low Intensity Developed,1,18,0,111,145,0,0,0,0,26,0,0,3,35,0,0,0,0,0
+131,Cultivated to Developed Open Space,0,8,0,107,55,0,0,0,0,61,0,0,0,50,0,0,0,0,0
+132,Cultivated to Cultivated,29920,1875,6073,227034,10392,271,2165,0,92593,16052,0,121188,25641,9060,11613,184,22896,3864,630
+133,Cultivated to Pasture/Hay,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+134,Cultivated to Grassland,0,1,0,0,5,0,0,0,0,3,0,0,36,0,0,0,6,0,0
+135,Cultivated to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+136,Cultivated to Evergreen Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,Cultivated to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,Cultivated to Scrub/Shrub,0,0,0,22,1,0,0,0,15,22,0,0,162,0,0,0,0,0,0
+139,Cultivated to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,Cultivated to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,0
+141,Cultivated to Palustrine Emergent Wetland,3,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+142,Cultivated to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,Cultivated to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,Cultivated to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+145,Cultivated to Unconsolidated Shore,0,2,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0
+146,Cultivated to Bare Land,0,2,0,4,0,0,0,0,26,56,0,0,7,0,0,0,0,0,0
+147,Cultivated to Water,0,9,0,0,0,0,0,0,25,2,0,0,0,0,0,0,0,0,0
+148,Cultivated to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,0,0,0,0
+149,Cultivated to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150,Cultivated to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+151,Cultivated to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152,Pasture/Hay to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,Pasture/Hay to High Intensity Developed,0,704,0,27,22,0,82,36,0,577,0,0,0,9,0,18,5,0,0
+154,Pasture/Hay to Medium Intensity Developed,0,2208,0,55,59,0,213,47,4,907,0,0,1,30,0,38,9,1,0
+155,Pasture/Hay to Low Intensity Developed,4,1751,0,37,19,0,140,53,1,755,0,0,4,204,7,19,13,2,0
+156,Pasture/Hay to Developed Open Space,0,1570,0,148,90,0,169,38,0,566,0,0,8,345,9,15,33,21,0
+157,Pasture/Hay to Cultivated,0,38,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+158,Pasture/Hay to Pasture/Hay,13934,53918,10809,17519,386,3,19425,2107,117879,73782,0,3378,37782,67201,57844,1438,11805,24207,10524
+159,Pasture/Hay to Grassland,4,243,0,6,6,0,20,0,0,20,0,0,68,0,0,18,4,54,0
+160,Pasture/Hay to Deciduous Forest,1,128,0,4,2,0,10,0,2,23,0,0,2,0,0,5,1,13,0
+161,Pasture/Hay to Evergreen Forest,0,30,0,7,0,0,1,0,0,5,0,0,0,0,0,0,0,2,0
+162,Pasture/Hay to Mixed Forest,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,3,0
+163,Pasture/Hay to Scrub/Shrub,22,190,0,3,4,0,7,0,27,22,0,0,68,0,0,19,2,10,0
+164,Pasture/Hay to Palustrine Forested Wetland,0,21,0,3,0,0,22,0,0,4,0,0,5,0,0,0,0,4,0
+165,Pasture/Hay to Palustrine Scrub/Shrub Wetland,55,48,0,1,0,0,37,12,4,2,0,0,24,0,0,0,4,2,0
+166,Pasture/Hay to Palustrine Emergent Wetland,228,56,0,3,6,0,43,5,2,1,0,0,70,0,0,38,87,150,0
+167,Pasture/Hay to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,Pasture/Hay to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,Pasture/Hay to Estuarine Emergent Wetland,0,7,0,4,0,0,6,7,12,10,0,0,1,0,0,2,1,0,0
+170,Pasture/Hay to Unconsolidated Shore,0,41,0,0,0,0,14,2,0,3,0,0,25,0,0,1,0,0,0
+171,Pasture/Hay to Bare Land,0,157,0,39,9,0,22,3,0,257,0,0,0,4,0,16,24,2,0
+172,Pasture/Hay to Water,0,82,0,0,0,0,0,5,4,40,0,0,11,0,0,0,0,0,0
+173,Pasture/Hay to Palustrine Aquatic Bed,0,2,0,0,0,0,7,0,0,2,0,0,2,0,0,0,0,2,0
+174,Pasture/Hay to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+175,Pasture/Hay to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,Pasture/Hay to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Grassland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,Grassland to High Intensity Developed,0,137,0,27,47,0,28,28,0,65,0,0,16,0,0,20,10,0,0
+179,Grassland to Medium Intensity Developed,0,446,0,50,60,12,35,20,0,267,1,0,33,0,0,54,56,0,0
+180,Grassland to Low Intensity Developed,7,231,0,45,92,13,16,27,0,96,23,0,23,2,0,77,99,0,0
+181,Grassland to Developed Open Space,2,218,0,73,53,44,9,8,0,48,162,0,2,7,0,33,53,1,0
+182,Grassland to Cultivated,0,1,0,66,6,0,8,0,0,20,0,0,0,0,0,0,1,0,0
+183,Grassland to Pasture/Hay,0,7,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+184,Grassland to Grassland,24133,23486,774,13326,35085,15763,28102,7083,17032,19425,127150,46115,38771,8149,13836,23894,36990,21172,3593
+185,Grassland to Deciduous Forest,2,15,5,1,5,0,1,0,1,4,0,0,0,3,37,9,8,5,0
+186,Grassland to Evergreen Forest,0,2,0,0,0,0,0,0,0,3,0,0,0,3,26,0,0,0,0
+187,Grassland to Mixed Forest,0,2,1,0,0,0,0,0,0,0,0,0,0,11,27,0,0,0,0
+188,Grassland to Scrub/Shrub,18,38,1,32,92,0,5,0,10,0,0,0,37,463,3,38,14,7,0
+189,Grassland to Palustrine Forested Wetland,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+190,Grassland to Palustrine Scrub/Shrub Wetland,48,0,0,0,1,0,1,0,1,0,0,0,0,30,0,0,62,0,0
+191,Grassland to Palustrine Emergent Wetland,283,4,0,0,0,0,10,0,0,0,0,0,31,0,0,2,17,6,0
+192,Grassland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,Grassland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+194,Grassland to Estuarine Emergent Wetland,17,1,0,0,3,0,0,0,0,0,0,0,0,0,0,9,2,0,0
+195,Grassland to Unconsolidated Shore,0,6,0,3,2,0,1,1,0,0,0,0,17,0,0,1,7,0,0
+196,Grassland to Bare Land,0,52,0,30,6,0,11,0,4,17,0,0,0,0,0,19,28,0,0
+197,Grassland to Water,0,12,0,0,0,0,0,3,0,2,0,0,7,0,0,1,0,0,0
+198,Grassland to Palustrine Aquatic Bed,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Grassland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,Grassland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,Grassland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Deciduous Forest to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,Deciduous Forest to High Intensity Developed,0,95,0,9,0,0,5,0,0,136,0,0,0,0,0,2,2,0,0
+204,Deciduous Forest to Medium Intensity Developed,0,286,0,26,2,1,9,2,0,244,0,0,0,0,0,15,24,0,0
+205,Deciduous Forest to Low Intensity Developed,1,174,0,18,3,0,9,0,0,218,0,0,0,0,9,21,44,0,0
+206,Deciduous Forest to Developed Open Space,0,90,0,20,2,0,2,1,1,160,0,0,0,10,2,15,18,0,0
+207,Deciduous Forest to Cultivated,0,0,0,1,0,0,1,0,0,19,0,0,0,0,0,0,3,0,0
+208,Deciduous Forest to Pasture/Hay,0,57,0,0,0,0,0,0,5,60,0,0,0,0,0,0,0,3,0
+209,Deciduous Forest to Grassland,3,36,0,10,0,0,5,2,0,66,0,0,0,56,0,12,26,2,0
+210,Deciduous Forest to Deciduous Forest,17740,31144,55,8571,6549,979,13276,352,5944,30415,292,2284,6826,1561,6718,31306,28642,11202,63
+211,Deciduous Forest to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,Deciduous Forest to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,Deciduous Forest to Scrub/Shrub,1,30,0,1,3,0,4,0,1,9,0,0,4,0,0,36,6,1,0
+214,Deciduous Forest to Palustrine Forested Wetland,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,Deciduous Forest to Palustrine Scrub/Shrub Wetland,0,17,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0
+216,Deciduous Forest to Palustrine Emergent Wetland,34,7,0,0,0,0,3,0,0,0,0,0,0,0,0,13,2,2,0
+217,Deciduous Forest to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,Deciduous Forest to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,Deciduous Forest to Estuarine Emergent Wetland,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+220,Deciduous Forest to Unconsolidated Shore,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0
+221,Deciduous Forest to Bare Land,0,63,0,6,0,0,1,0,0,37,0,0,0,0,0,37,7,0,0
+222,Deciduous Forest to Water,0,24,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0
+223,Deciduous Forest to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,Deciduous Forest to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,Deciduous Forest to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,Deciduous Forest to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,Evergreen Forest to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,Evergreen Forest to High Intensity Developed,0,41,0,0,2,0,4,0,0,56,0,0,0,0,0,4,11,0,0
+229,Evergreen Forest to Medium Intensity Developed,0,214,0,21,1,0,24,0,0,123,0,0,0,12,6,41,42,0,0
+230,Evergreen Forest to Low Intensity Developed,0,131,0,6,2,0,1,0,0,158,0,0,0,75,95,10,52,0,0
+231,Evergreen Forest to Developed Open Space,0,84,0,1,0,0,0,0,0,111,0,0,0,44,20,4,10,0,0
+232,Evergreen Forest to Cultivated,0,1,0,0,0,0,0,0,7,0,0,0,0,302,5,0,2,0,0
+233,Evergreen Forest to Pasture/Hay,0,65,0,0,0,0,0,0,4,70,0,0,0,0,0,0,0,1,0
+234,Evergreen Forest to Grassland,0,44,0,1,0,0,3,0,0,57,0,0,0,667,1846,6,28,0,7
+235,Evergreen Forest to Deciduous Forest,0,7,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,1,0
+236,Evergreen Forest to Evergreen Forest,6956,7008,165,154,155,8,9793,53,1393,5483,0,40,1934,20279,10535,470,1501,23642,39
+237,Evergreen Forest to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,2,63,0,0,0,0
+238,Evergreen Forest to Scrub/Shrub,1,64,0,0,0,0,3,0,0,18,0,0,0,194,105,8,6,1,0
+239,Evergreen Forest to Palustrine Forested Wetland,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,Evergreen Forest to Palustrine Scrub/Shrub Wetland,0,55,0,0,0,0,0,0,1,1,0,0,0,14,160,0,0,0,0
+241,Evergreen Forest to Palustrine Emergent Wetland,4,4,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0
+242,Evergreen Forest to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Evergreen Forest to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,Evergreen Forest to Estuarine Emergent Wetland,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+245,Evergreen Forest to Unconsolidated Shore,0,2,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+246,Evergreen Forest to Bare Land,0,180,0,0,0,0,0,0,0,4,0,0,0,10,4,46,11,0,34
+247,Evergreen Forest to Water,0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+248,Evergreen Forest to Palustrine Aquatic Bed,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,Evergreen Forest to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,Evergreen Forest to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,Evergreen Forest to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,Mixed Forest to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,Mixed Forest to High Intensity Developed,0,56,0,0,0,0,0,0,0,71,0,0,0,0,0,0,2,0,0
+254,Mixed Forest to Medium Intensity Developed,0,223,0,4,0,0,3,1,0,229,0,0,0,4,3,0,1,0,0
+255,Mixed Forest to Low Intensity Developed,0,190,0,2,0,0,0,0,0,186,0,0,0,136,22,1,4,0,0
+256,Mixed Forest to Developed Open Space,0,66,0,10,0,0,0,0,0,119,0,0,0,13,39,0,2,0,0
+257,Mixed Forest to Cultivated,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,Mixed Forest to Pasture/Hay,0,40,0,0,0,0,0,0,0,34,0,0,1,0,0,0,0,0,0
+259,Mixed Forest to Grassland,0,22,0,7,8,0,1,0,0,31,0,0,2,304,162,0,7,0,0
+260,Mixed Forest to Deciduous Forest,0,8,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0
+261,Mixed Forest to Evergreen Forest,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+262,Mixed Forest to Mixed Forest,1073,3866,86,56,53,1,5857,94,1564,8154,0,199,1182,34913,22757,286,362,10211,75
+263,Mixed Forest to Scrub/Shrub,0,24,0,1,357,0,0,0,0,6,0,0,0,37,0,1,1,0,0
+264,Mixed Forest to Palustrine Forested Wetland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+265,Mixed Forest to Palustrine Scrub/Shrub Wetland,0,6,0,0,37,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+266,Mixed Forest to Palustrine Emergent Wetland,0,13,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+267,Mixed Forest to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,Mixed Forest to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,Mixed Forest to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+270,Mixed Forest to Unconsolidated Shore,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,Mixed Forest to Bare Land,0,4,0,1,0,0,0,0,0,13,0,0,0,3,6,1,0,0,0
+272,Mixed Forest to Water,0,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+273,Mixed Forest to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,Mixed Forest to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,Mixed Forest to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,Mixed Forest to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,Scrub/Shrub to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,Scrub/Shrub to High Intensity Developed,0,40,0,59,4,0,5,1,0,18,0,0,0,30,0,7,3,0,2
+279,Scrub/Shrub to Medium Intensity Developed,0,207,0,129,11,2,21,6,0,30,0,0,0,133,19,40,64,0,3
+280,Scrub/Shrub to Low Intensity Developed,7,262,0,151,60,13,14,0,2,32,8,0,1,478,85,18,107,0,12
+281,Scrub/Shrub to Developed Open Space,0,230,0,298,37,19,2,0,0,23,33,0,0,115,11,19,30,0,0
+282,Scrub/Shrub to Cultivated,0,0,0,30,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0
+283,Scrub/Shrub to Pasture/Hay,0,7,0,6,0,0,0,0,0,14,0,0,0,0,0,1,6,0,0
+284,Scrub/Shrub to Grassland,377,68,0,19,326,0,0,3,0,7,0,0,9,11,11,17,62,1,0
+285,Scrub/Shrub to Deciduous Forest,22,17,0,5,90,0,1,0,2,0,0,0,1,5,37,20,32,1,0
+286,Scrub/Shrub to Evergreen Forest,1,0,0,3,0,0,0,0,0,0,0,0,0,172,49,0,0,0,0
+287,Scrub/Shrub to Mixed Forest,0,0,0,0,7,0,0,0,0,0,0,0,0,519,200,2,3,0,0
+288,Scrub/Shrub to Scrub/Shrub,18599,15095,181,24903,38724,18134,12062,456,36304,10242,22176,49359,15614,12811,3050,11932,19293,13868,280
+289,Scrub/Shrub to Palustrine Forested Wetland,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+290,Scrub/Shrub to Palustrine Scrub/Shrub Wetland,0,2,0,0,459,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+291,Scrub/Shrub to Palustrine Emergent Wetland,585,4,0,0,73,0,2,0,0,1,0,0,1,0,0,12,28,5,0
+292,Scrub/Shrub to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,Scrub/Shrub to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,Scrub/Shrub to Estuarine Emergent Wetland,2,0,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+295,Scrub/Shrub to Unconsolidated Shore,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,6,2,0,0
+296,Scrub/Shrub to Bare Land,7,63,0,76,3,0,1,0,0,7,0,0,0,1,6,40,52,0,0
+297,Scrub/Shrub to Water,0,1,0,5,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0
+298,Scrub/Shrub to Palustrine Aquatic Bed,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+299,Scrub/Shrub to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+300,Scrub/Shrub to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,Scrub/Shrub to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,Palustrine Forested Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Palustrine Forested Wetland to High Intensity Developed,0,2,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0
+304,Palustrine Forested Wetland to Medium Intensity Developed,0,2,0,0,0,0,0,0,0,0,0,0,0,15,11,0,0,0,0
+305,Palustrine Forested Wetland to Low Intensity Developed,0,9,2,0,0,0,0,7,0,0,0,0,0,160,69,0,0,0,1
+306,Palustrine Forested Wetland to Developed Open Space,0,9,0,0,0,0,0,0,0,0,0,0,0,51,2,0,0,0,0
+307,Palustrine Forested Wetland to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,116,16,0,0,0,0
+308,Palustrine Forested Wetland to Pasture/Hay,0,0,0,0,0,0,0,5,0,17,0,0,0,191,210,0,0,0,0
+309,Palustrine Forested Wetland to Grassland,0,20,0,0,0,0,0,0,0,1,0,0,0,418,814,0,0,0,0
+310,Palustrine Forested Wetland to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Palustrine Forested Wetland to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+312,Palustrine Forested Wetland to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,4,21,0,0,0,0
+313,Palustrine Forested Wetland to Scrub/Shrub,0,0,0,0,2,0,0,0,0,4,0,0,0,691,38,0,0,0,0
+314,Palustrine Forested Wetland to Palustrine Forested Wetland,6767,28899,1695,2226,512,83,45703,259,31164,52887,5,995,8732,115903,197653,763,1028,43261,751
+315,Palustrine Forested Wetland to Palustrine Scrub/Shrub Wetland,1,34,1,1,18,0,0,0,0,3,0,0,0,238,1524,9,3,0,0
+316,Palustrine Forested Wetland to Palustrine Emergent Wetland,1,3,656,0,2,0,0,0,0,42,0,0,0,198,1103,1,2,0,4
+317,Palustrine Forested Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,Palustrine Forested Wetland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+319,Palustrine Forested Wetland to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,Palustrine Forested Wetland to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+321,Palustrine Forested Wetland to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48
+322,Palustrine Forested Wetland to Water,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+323,Palustrine Forested Wetland to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+324,Palustrine Forested Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,Palustrine Forested Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,Palustrine Forested Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,Palustrine Scrub/Shrub Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,Palustrine Scrub/Shrub Wetland to High Intensity Developed,0,92,0,2,0,0,19,2,0,71,0,0,0,0,0,0,7,0,0
+329,Palustrine Scrub/Shrub Wetland to Medium Intensity Developed,0,456,0,11,0,0,30,4,0,176,0,0,0,0,0,7,35,0,0
+330,Palustrine Scrub/Shrub Wetland to Low Intensity Developed,13,556,0,5,0,0,22,1,0,164,10,0,2,7,6,8,52,0,0
+331,Palustrine Scrub/Shrub Wetland to Developed Open Space,0,253,0,15,0,0,5,2,0,105,9,0,0,0,0,0,27,0,0
+332,Palustrine Scrub/Shrub Wetland to Cultivated,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0
+333,Palustrine Scrub/Shrub Wetland to Pasture/Hay,4,142,0,0,0,0,5,0,5,102,0,0,9,0,5,6,0,0,0
+334,Palustrine Scrub/Shrub Wetland to Grassland,869,71,0,12,1,0,22,5,0,27,0,0,1,0,0,3,39,0,0
+335,Palustrine Scrub/Shrub Wetland to Deciduous Forest,92,17,0,1,0,0,1,0,0,4,0,0,0,0,0,5,27,3,0
+336,Palustrine Scrub/Shrub Wetland to Evergreen Forest,2,3,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0
+337,Palustrine Scrub/Shrub Wetland to Mixed Forest,4,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,1,2,0
+338,Palustrine Scrub/Shrub Wetland to Scrub/Shrub,0,15,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+339,Palustrine Scrub/Shrub Wetland to Palustrine Forested Wetland,56,3,0,2,3,0,0,0,0,0,0,0,0,1494,904,3,0,0,31
+340,Palustrine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland,60381,9364,2245,8310,6140,15656,62600,4472,26170,10290,18262,31064,12451,10667,9802,2142,6713,41561,1607
+341,Palustrine Scrub/Shrub Wetland to Palustrine Emergent Wetland,4603,24,0,2,9,0,13,0,1,10,0,0,7,7,3,4,12,27,0
+342,Palustrine Scrub/Shrub Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,Palustrine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,Palustrine Scrub/Shrub Wetland to Estuarine Emergent Wetland,3,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+345,Palustrine Scrub/Shrub Wetland to Unconsolidated Shore,1,8,0,9,0,0,5,3,0,1,0,0,0,0,0,0,0,4,0
+346,Palustrine Scrub/Shrub Wetland to Bare Land,31,16,0,2,0,0,2,0,0,30,0,0,0,0,0,24,12,0,0
+347,Palustrine Scrub/Shrub Wetland to Water,0,18,0,1,0,0,0,0,0,1,0,0,4,1,2,0,2,0,0
+348,Palustrine Scrub/Shrub Wetland to Palustrine Aquatic Bed,0,0,0,0,0,0,1,0,0,0,0,0,9,0,0,0,0,0,0
+349,Palustrine Scrub/Shrub Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,Palustrine Scrub/Shrub Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Palustrine Scrub/Shrub Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,Palustrine Emergent Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,Palustrine Emergent Wetland to High Intensity Developed,0,60,0,0,0,1,17,7,0,28,0,0,0,0,0,4,11,0,0
+354,Palustrine Emergent Wetland to Medium Intensity Developed,0,292,0,14,8,7,93,3,0,47,0,0,0,0,0,22,57,0,0
+355,Palustrine Emergent Wetland to Low Intensity Developed,26,332,1,6,4,6,71,3,1,56,0,0,0,3,0,19,55,0,0
+356,Palustrine Emergent Wetland to Developed Open Space,2,168,0,5,1,7,11,2,0,44,3,0,10,0,1,26,51,0,0
+357,Palustrine Emergent Wetland to Cultivated,0,0,0,0,14,0,0,0,0,14,0,0,0,0,28,0,0,0,0
+358,Palustrine Emergent Wetland to Pasture/Hay,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,Palustrine Emergent Wetland to Grassland,1,5,0,0,9,0,5,0,0,0,0,0,0,0,2,0,2,0,0
+360,Palustrine Emergent Wetland to Deciduous Forest,130,13,0,0,1,0,4,0,0,0,0,0,0,0,0,10,18,4,0
+361,Palustrine Emergent Wetland to Evergreen Forest,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+362,Palustrine Emergent Wetland to Mixed Forest,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+363,Palustrine Emergent Wetland to Scrub/Shrub,711,5,0,0,10,0,0,0,0,1,0,0,16,0,0,8,11,6,0
+364,Palustrine Emergent Wetland to Palustrine Forested Wetland,63,4,54,0,0,0,1,0,0,1,0,0,0,698,306,8,49,0,0
+365,Palustrine Emergent Wetland to Palustrine Scrub/Shrub Wetland,1054,4,39,0,3,0,2,1,3,0,0,0,3,134,28,29,83,0,88
+366,Palustrine Emergent Wetland to Palustrine Emergent Wetland,78195,6983,80433,35006,17745,65919,83658,15646,25808,11922,28400,87455,47224,46788,53748,13603,31586,53622,41056
+367,Palustrine Emergent Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,Palustrine Emergent Wetland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,Palustrine Emergent Wetland to Estuarine Emergent Wetland,421,2,0,3,0,0,1,2,0,8,0,0,3,0,0,13,10,0,0
+370,Palustrine Emergent Wetland to Unconsolidated Shore,10,4,0,0,3,0,1,1,0,2,0,0,0,0,0,7,2,29,0
+371,Palustrine Emergent Wetland to Bare Land,47,15,0,0,1,0,17,0,0,7,0,0,0,0,0,1,10,0,0
+372,Palustrine Emergent Wetland to Water,0,8,6,0,0,0,0,1,0,0,0,0,0,30,51,7,0,0,10
+373,Palustrine Emergent Wetland to Palustrine Aquatic Bed,10,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0
+374,Palustrine Emergent Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,Palustrine Emergent Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,Palustrine Emergent Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,Estuarine Forested Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,Estuarine Forested Wetland to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,Estuarine Forested Wetland to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+380,Estuarine Forested Wetland to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,Estuarine Forested Wetland to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,Estuarine Forested Wetland to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+383,Estuarine Forested Wetland to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,Estuarine Forested Wetland to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,Estuarine Forested Wetland to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,Estuarine Forested Wetland to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,Estuarine Forested Wetland to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,Estuarine Forested Wetland to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+389,Estuarine Forested Wetland to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+390,Estuarine Forested Wetland to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,Estuarine Forested Wetland to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,Estuarine Forested Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,Estuarine Forested Wetland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+394,Estuarine Forested Wetland to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,Estuarine Forested Wetland to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Estuarine Forested Wetland to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,Estuarine Forested Wetland to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,Estuarine Forested Wetland to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Estuarine Forested Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,Estuarine Forested Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,Estuarine Forested Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,Estuarine Scrub/Shrub Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,Estuarine Scrub/Shrub Wetland to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Estuarine Scrub/Shrub Wetland to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,Estuarine Scrub/Shrub Wetland to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,Estuarine Scrub/Shrub Wetland to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,Estuarine Scrub/Shrub Wetland to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,Estuarine Scrub/Shrub Wetland to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Estuarine Scrub/Shrub Wetland to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,Estuarine Scrub/Shrub Wetland to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,Estuarine Scrub/Shrub Wetland to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,Estuarine Scrub/Shrub Wetland to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Estuarine Scrub/Shrub Wetland to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,Estuarine Scrub/Shrub Wetland to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,Estuarine Scrub/Shrub Wetland to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Estuarine Scrub/Shrub Wetland to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,Estuarine Scrub/Shrub Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,Estuarine Scrub/Shrub Wetland to Estuarine Scrub/Shrub Wetland,1,33,148,23,72,209,1,25,1167,258,326,9,0,1197,0,48,6,1,38
+419,Estuarine Scrub/Shrub Wetland to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,Estuarine Scrub/Shrub Wetland to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,Estuarine Scrub/Shrub Wetland to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+422,Estuarine Scrub/Shrub Wetland to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,Estuarine Scrub/Shrub Wetland to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,Estuarine Scrub/Shrub Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,Estuarine Scrub/Shrub Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,Estuarine Scrub/Shrub Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,Estuarine Emergent Wetland to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,Estuarine Emergent Wetland to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+429,Estuarine Emergent Wetland to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,4,0,0,39
+430,Estuarine Emergent Wetland to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,59
+431,Estuarine Emergent Wetland to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+432,Estuarine Emergent Wetland to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,Estuarine Emergent Wetland to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,Estuarine Emergent Wetland to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,Estuarine Emergent Wetland to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,Estuarine Emergent Wetland to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,Estuarine Emergent Wetland to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,Estuarine Emergent Wetland to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,Estuarine Emergent Wetland to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,Estuarine Emergent Wetland to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,Estuarine Emergent Wetland to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,Estuarine Emergent Wetland to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,Estuarine Emergent Wetland to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,Estuarine Emergent Wetland to Estuarine Emergent Wetland,77425,5292,150700,37605,8362,31714,86313,35542,84280,9927,5650,3794,86577,21007,22244,32190,29450,146545,220572
+445,Estuarine Emergent Wetland to Unconsolidated Shore,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,122,29
+446,Estuarine Emergent Wetland to Bare Land,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,318
+447,Estuarine Emergent Wetland to Water,0,0,22,0,0,0,0,17,0,0,0,0,0,24,21,0,0,15,70
+448,Estuarine Emergent Wetland to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,Estuarine Emergent Wetland to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,Estuarine Emergent Wetland to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,Estuarine Emergent Wetland to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,Unconsolidated Shore to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,Unconsolidated Shore to High Intensity Developed,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,Unconsolidated Shore to Medium Intensity Developed,0,0,0,0,0,9,1,0,0,0,1,0,0,0,0,0,0,0,0
+455,Unconsolidated Shore to Low Intensity Developed,0,0,0,0,0,11,2,0,0,0,0,0,0,0,0,0,0,0,0
+456,Unconsolidated Shore to Developed Open Space,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,3,0,0,0
+457,Unconsolidated Shore to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,Unconsolidated Shore to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Unconsolidated Shore to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,Unconsolidated Shore to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,Unconsolidated Shore to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,Unconsolidated Shore to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,Unconsolidated Shore to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,Unconsolidated Shore to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+465,Unconsolidated Shore to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,Unconsolidated Shore to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+467,Unconsolidated Shore to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,Unconsolidated Shore to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,Unconsolidated Shore to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,Unconsolidated Shore to Unconsolidated Shore,10477,3679,2718,14604,22514,113865,10474,23507,2202,8727,104248,45328,12010,116,3940,19309,8912,10667,2171
+471,Unconsolidated Shore to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,0
+472,Unconsolidated Shore to Water,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,10,0
+473,Unconsolidated Shore to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+474,Unconsolidated Shore to Estuarine Aquatic Bed,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+475,Unconsolidated Shore to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,Unconsolidated Shore to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,Bare Land to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,Bare Land to High Intensity Developed,0,86,0,24,27,10,504,25,1,127,0,0,0,0,0,10,7,0,91
+479,Bare Land to Medium Intensity Developed,0,165,0,46,118,54,487,31,6,199,16,0,4,0,0,24,23,0,121
+480,Bare Land to Low Intensity Developed,1,64,0,28,27,56,192,9,2,93,48,0,3,0,0,12,16,0,64
+481,Bare Land to Developed Open Space,0,28,0,7,21,23,72,4,3,29,27,0,1,0,0,11,15,0,26
+482,Bare Land to Cultivated,0,1,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0
+483,Bare Land to Pasture/Hay,0,4,0,1,0,0,8,0,0,18,0,0,4,0,0,2,0,0,0
+484,Bare Land to Grassland,4,2,0,11,11,0,73,3,0,24,0,0,50,0,0,8,18,8,0
+485,Bare Land to Deciduous Forest,0,4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,8,3,0
+486,Bare Land to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,Bare Land to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,Bare Land to Scrub/Shrub,1,9,0,0,1,0,3,0,4,0,0,0,15,0,0,7,13,1,0
+489,Bare Land to Palustrine Forested Wetland,4,0,0,0,0,0,16,0,0,1,0,0,1,0,0,5,2,0,0
+490,Bare Land to Palustrine Scrub/Shrub Wetland,24,0,0,0,0,0,12,2,0,2,0,0,12,0,1,1,15,0,0
+491,Bare Land to Palustrine Emergent Wetland,93,0,0,0,2,0,89,7,8,10,1,0,58,0,17,16,8,16,0
+492,Bare Land to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,Bare Land to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+494,Bare Land to Estuarine Emergent Wetland,4,0,0,0,0,0,0,11,6,44,0,0,1,0,1,7,5,36,0
+495,Bare Land to Unconsolidated Shore,0,1,0,0,0,0,1,9,0,0,0,0,0,0,0,1,0,143,0
+496,Bare Land to Bare Land,82,567,169,3827,7156,3751,1378,660,629,1323,14434,7856,1907,385,275,10263,993,611,4642
+497,Bare Land to Water,0,10,0,0,0,0,1,7,0,5,0,0,0,0,7,3,3,0,0
+498,Bare Land to Palustrine Aquatic Bed,3,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,0,0
+499,Bare Land to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,Bare Land to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,Bare Land to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,Water to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,Water to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,Water to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+505,Water to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+506,Water to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+507,Water to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+508,Water to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+509,Water to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+510,Water to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+511,Water to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,Water to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+513,Water to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+514,Water to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+515,Water to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+516,Water to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+517,Water to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+518,Water to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,Water to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0
+520,Water to Unconsolidated Shore,0,0,0,0,0,0,0,339,0,0,0,0,0,0,155,0,0,0,0
+521,Water to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,Water to Water,144121,122823,191043,30002,248037,188969,33612,339571,48104,100213,148825,73107,197675,58637,61132,319933,264502,89137,187420
+523,Water to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,483,0,0,0,0
+524,Water to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,0,0,0,0
+525,Water to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,Water to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,Palustrine Aquatic Bed to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,Palustrine Aquatic Bed to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+529,Palustrine Aquatic Bed to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+530,Palustrine Aquatic Bed to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,Palustrine Aquatic Bed to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,Palustrine Aquatic Bed to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,Palustrine Aquatic Bed to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+534,Palustrine Aquatic Bed to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,Palustrine Aquatic Bed to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+536,Palustrine Aquatic Bed to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+537,Palustrine Aquatic Bed to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,Palustrine Aquatic Bed to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,Palustrine Aquatic Bed to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+540,Palustrine Aquatic Bed to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0
+541,Palustrine Aquatic Bed to Palustrine Emergent Wetland,0,0,6,0,0,0,0,0,0,0,0,0,0,5,8,0,0,0,8
+542,Palustrine Aquatic Bed to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+543,Palustrine Aquatic Bed to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,Palustrine Aquatic Bed to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+545,Palustrine Aquatic Bed to Unconsolidated Shore,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,Palustrine Aquatic Bed to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,Palustrine Aquatic Bed to Water,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+548,Palustrine Aquatic Bed to Palustrine Aquatic Bed,97,777,202,280,86,41,2981,150,301,1642,87,1199,426,424,1599,35,164,474,320
+549,Palustrine Aquatic Bed to Estuarine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+550,Palustrine Aquatic Bed to Tundra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551,Palustrine Aquatic Bed to Snow/Ice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,Estuarine Aquatic Bed to Unclassified,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+553,Estuarine Aquatic Bed to High Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,Estuarine Aquatic Bed to Medium Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,Estuarine Aquatic Bed to Low Intensity Developed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+556,Estuarine Aquatic Bed to Developed Open Space,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+557,Estuarine Aquatic Bed to Cultivated,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+558,Estuarine Aquatic Bed to Pasture/Hay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+559,Estuarine Aquatic Bed to Grassland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,Estuarine Aquatic Bed to Deciduous Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+561,Estuarine Aquatic Bed to Evergreen Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+562,Estuarine Aquatic Bed to Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,Estuarine Aquatic Bed to Scrub/Shrub,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+564,Estuarine Aquatic Bed to Palustrine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+565,Estuarine Aquatic Bed to Palustrine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+566,Estuarine Aquatic Bed to Palustrine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+567,Estuarine Aquatic Bed to Estuarine Forested Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,Estuarine Aquatic Bed to Estuarine Scrub/Shrub Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,Estuarine Aquatic Bed to Estuarine Emergent Wetland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+570,Estuarine Aquatic Bed to Unconsolidated Shore,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+571,Estuarine Aquatic Bed to Bare Land,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,Estuarine Aquatic Bed to Water,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+573,Estuarine Aquatic Bed to Palustrine Aquatic Bed,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,Estuarine Aquatic Bed to Estuarine Aquatic Bed,96,29,157,445,2847,25097,3917,459,1272,496,31655,13632,267,125,578,3862,1733,2492,610

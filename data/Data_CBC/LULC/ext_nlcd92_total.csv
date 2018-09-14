@@ -1,0 +1,25 @@
+Rowid_,VALUE,COUNT,LAND_COVER
+,0,13308204,Open Ocean
+,11,1522228,Open Water
+,21,2653403,Low Intensity Residential
+,22,1481004,High Intensity Residential
+,23,1155555,Commercial/Industrial/Transportation
+,25,204646,LULC Residential
+,26,221087,NLCD/LULC Forested Residential
+,31,169645,Bare Rock/Sand/Clay
+,32,10396,Quarries/Strip Mines/Gravel Pits
+,33,262512,Transitional
+,41,652732,Deciduous Forest
+,42,3136560,Evergreen Forest
+,43,587761,Mixed Forest
+,51,448405,Shrubland
+,61,370096,Orchards/Vineyards/Other
+,62,8662,LULC Orchards/Vineyards/Other
+,71,1598806,Grasslands/Herbaceous
+,81,1111612,Pasture/Hay
+,82,888618,Row Crops
+,83,99034,Small Grains
+,85,444378,Urban/Recreational Grasses
+,91,3203615,Woody Wetlands
+,92,5061594,Emergent Herbaceous Wetlands
+,99,454,Undefined

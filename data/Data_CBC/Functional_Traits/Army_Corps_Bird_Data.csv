@@ -1,0 +1,677 @@
+COMMON_NAME,SCIENTIFIC_NAME ,LCTA_CODE,ALPHA_CODE ,AOU,NEO_STAT,NEST_LOC,NEST_TYPE,FOOD_TYPE,FORAGING_SUBSTRATE,FORAGING_TECHNIQUE,HABITAT,NOTES
+"Albatross, Black-footed",Diomedea nigripes,DINI,BFAL,810,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,"Scavenger, Ground Gleaner",Pelagic,NA
+"Albatross, Laysan",Diomedea immutabilis,DIIM,LAAL,821,R,Ground,Scrape,Aquatic Inverts,Water,Ground Gleaner,Pelagic,NA
+Anhinga,Anhinga anhinga,ANAN,ANHI,1180,R,"Shrub, Woody Lower Canopy",Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Ani, Groove-billed",Crotophaga sulcirostris,CRSU,GBAN,3840,C,Woody Lower Canopy,Cup,"Insects, Small Verts",Ground,Ground Gleaner,"Shrubland, Swamp/Marsh",NA
+"Ani, Smooth-billed",Crotophaga ani,CRAN,SBAN,3830,R,Woody Lower Canopy,Cup,"Insects, Small Verts",Ground,Ground Gleaner,"Shrubland, Grassland",NA
+"Auklet, Cassin’s",Ptychoramphus aleuticus,PTAL,CAAU,160,R,"Ground, Cliff","Burrow, Crevice",Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Auklet, Crested",Aethia cristatella,AECR,CRAU,180,R,"Ground, Cliff",Crevice,Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Auklet, Least",Aethia pusilla,AEPU,LEAU,200,R,"Ground, Cliff",Crevice,Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Auklet, Parakeet",Cyclorrhynchus psittacula,CYPS,PAAU,170,R,"Ground, Cliff",Crevice,"Aquatic Inverts, Fish",Water,Surface Dives,"Coastal, Pelagic",NA
+"Auklet, Rhinoceros",Cerorhinca monocerata,CEMO,RHAU,150,R,Ground,Burrow,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Auklet, Whiskered",Aethia pygmaea,AEPY,WHAU,190,R,Ground,Crevice,Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Avocet, American",Recurvirostra americana,REAM,AMAV,2250,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Prober,"Swamp/Marsh, Freshwater",NA
+"Becard, Rose-throated",Pachyramphus aglaiae,PAAG,RTBE,4411,C,Woody Upper Canopy,Sphere,"Insects, Fruit",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Bittern, American",Botaurus lentiginosus,BOLE,AMBI,1900,R,Ground,Platform,"Fish, Aquatic Inverts","Water, Ground","Ambusher, Ground Gleaner",Swamp/Marsh,NA
+"Bittern, Least",Ixobrychus exilis,IXEX,LEBI,1910,R,"Ground, Shrub",Platform,"Fish, Aquatic Inverts","Water, Ground","Ambusher, Ground Gleaner",Swamp/Marsh,NA
+"Blackbird, Brewer’s",Euphagus cyanocephalus,EUCY,BRBL,5100,B,"Woody Upper Canopy, Ground",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Riparian",NA
+"Blackbird, Red-winged",Agelaius phoeniceus,AGPH,RWBL,4980,B,"Reed, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Swamp/Marsh, Riparian",NA
+"Blackbird, Rusty",Euphagus carolinus,EUCA1,RUBL,5090,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Swamp/Marsh, Riparian",NA
+"Blackbird, Tricolored",Agelaius tricolor,AGTR,TRBL,5000,R,"Reed, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Swamp/Marsh, Cropland",NA
+"Blackbird, Yellow-headed",Xanthocephalus xanthocephalus,XAXA,YHBL,4970,A,"Reed, Shrub",Cup,"Insects, Seeds","Ground, Air","Ground Gleaner, Hawker",Swamp/Marsh,NA
+"Bluebird, Eastern",Sialia sialis,SISI,EABL,7660,B,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Air, Foliage","Hawker, Foliage Gleaner","Forest Edge, Grassland",NA
+"Bluebird, Mountain",Sialia currucoides,SICU,MOBL,7680,B,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit",Ground,"Swooper, Hover & Pounce","Forest, Grassland",NA
+"Bluebird, Western",Sialia mexicana,SIME,WEBL,7670,B,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Air, Foliage","Hawker, Foliage Gleaner","Riparian, Grassland",NA
+Bluethroat,Luscinia svecica,LUSV,BLUE,7640,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Tundra, Rocky Slope",NA
+Bobolink,Dolichonyx oryzivorus,DOOR,BOBO,4940,A,Ground,Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Grassland, Swamp/Marsh",NA
+"Bobwhite, Northern",Colinus virginianus,COVI,NOBO,2890,R,Ground,Scrape,"Greens, Seeds",Ground,Ground Gleaner,"Forest Edge, Shrubland",NA
+"Booby, Blue-footed",Sula nebouxii,SUNE,BFBO,1141,R,Ground,Scrape,Fish,Water,High Dives,"Coastal, Pelagic",NA
+"Booby, Brown",Sula leucogaster,SULE,BRBO,1150,R,Ground,Scrape,Fish,Water,High Dives,"Coastal, Pelagic",NA
+"Booby, Masked",Sula dactylatra,SUDA,MABO,1140,R,Ground,Scrape,Fish,Water,High Dives,"Coastal, Pelagic",NA
+"Booby, Red-footed",Sula sula,SUSU,RFBO,1160,R,"Woody Upper Canopy, Ground","Platform, Scrape",Fish,Water,"High Dives, Skimmer","Coastal, Pelagic",NA
+Brant,Branta bernicla,BRBE,BRAN,1730,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Tundra, Shoreline",NA
+Bufflehead,Bucephala albeola,BUAL,BUFF,1530,R,"Snag, Bank","Cavity, Burrow",Aquatic Inverts,Water,Surface Dives,"Freshwater, Forest",NA
+"Bunting, Indigo",Passerina cyanea,PACY,INBU,5980,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest Edge, Shrubland",NA
+"Bunting, Lark",Calamospiza melanocorys,CAME,LARB,6050,A,Ground,Cup,"Insects, Seeds","Ground, Air","Ground Gleaner, Hawker","Grassland, Shrubland",NA
+"Bunting, Lazuli",Passerina amoena,PAAM1,LASB,5990,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Riparian",NA
+"Bunting, McKay’s",Plectrophenax hyperboreus,PLHY,MKBU,5350,R,"Ground, Cliff","Crevice, Cavity","Insects, Seeds",Ground,Ground Gleaner,"Shoreline, Tundra",NA
+"Bunting, Painted",Passerina ciris,PACI1,PABU,6010,A,"Shrub, Woody Lower Canopy",Cup,"Seeds, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Riparian",NA
+"Bunting, Snow",Plectrophenax nivalis,PLNI,SNBU,5340,R,"Ground, Cliff","Crevice, Cavity","Insects, Seeds",Ground,Ground Gleaner,"Shoreline, Tundra",NA
+"Bunting, Varied",Passerina versicolor,PAVE,VABU,6000,C,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+Bushtit,Psaltriparus minimus,PSMI,BUTI,7430,R,"Woody Lower Canopy, Shrub",Pendant,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Shrubland",NA
+Canvasback,Aythya valisineria,AYVA,CANV,1470,R,"Reed, Floating",Cup,"Greens, Seeds",Water,"Surface Dives, Prober","Swamp/Marsh, Freshwater",NA
+"Caracara, Crested",Polyborus plancus,POPL,CRCA,3620,R,"Woody Upper Canopy, Shrub",Platform,"Carrion, Small Verts",Ground,"Scavenger, Ground Gleaner",Shrubland,NA
+"Cardinal, Northern",Cardinalis cardinalis,CACA4,NOCA,5930,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Shrubland, Urban",NA
+"Catbird, Gray",Dumetella carolinensis,DUCA,GRCA,7040,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Riparian",NA
+"Chachalaca, Plain",Ortalis vetula,ORVE,PLCH,3110,R,Woody Lower Canopy,Saucer,"Fruit, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Riparian, Forest Edge",NA
+"Chat, Yellow-breasted",Icteria virens,ICVI,YBCH,6830,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Shrubland, Riparian",NA
+"Chickadee, Black-capped",Parus atricapillus,PAAT,BCCH,7350,R,"Woody Lower Canopy, Snag",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Riparian",NA
+"Chickadee, Boreal",Parus hudsonicus,PAHU,BOCH,7400,R,"Woody Lower Canopy, Snag",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Chickadee, Carolina",Parus carolinensis,PACA2,CACH,7360,R,"Woody Lower Canopy, Snag",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Riparian",NA
+"Chickadee, Chestnut-backed",Parus rufescens,PARU,CBCH,7410,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Chickadee, Mexican",Parus sclateri,PASC,MECH,7370,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Chickadee, Mountain",Parus gambeli,PAGA,MOCH,7380,R,"Woody Lower Canopy, Snag",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+Chuck-will’s-widow,Caprimulgus carolinensis,CACA3,CWWI,4160,A,Ground,None,"Insects, Birds",Air,Aerial Foraging,Forest,NA
+Chukar,Alectoris chukar,ALCH,CHUK,2882,R,Ground,Scrape,"Seeds, Insects",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Condor, California",Gymnogyps californianus,GYCA1,CALC,3240,R,Cliff,None,"Carrion, Fish",Ground,"Scavenger, High Patrol",Rocky Slope,NA
+"Coot, American",Fulica americana,FUAM,AMCO,2210,R,Floating,Platform,"Greens, Aquatic Inverts","Water, Ground","Surface Dips, Ground Gleaner","Freshwater, Swamp/Marsh",NA
+"Cormorant, Brandt’s",Phalacrocorax penicillatus,PHPE1,BRAC,1220,R,"Cliff, Ground",Saucer,Fish,Water,Surface Dives,"Coastal, Pelagic",NA
+"Cormorant, Double-crested",Phalacrocorax auritus,PHAU,DCCO,1200,R,"Ground, Woody Upper Canopy",Platform,"Fish, Aquatic Inverts",Water,"Surface Dives, Surface Dips","Coastal, Freshwater",NA
+"Cormorant, Great",Phalacrocorax carbo,PHCA,GRCO,1190,R,"Cliff, Woody Upper Canopy",Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Cormorant, Olivaceous",Phalacrocorax olivaceus,PHOL,OLCO,1210,R,"Shrub, Woody Lower Canopy",Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",Incorrect data in original table; replaced with values of other Phalacrocorax species
+"Cormorant, Pelagic",Phalacrocorax pelagicus,PHPE,PECO,1230,R,"Cliff, Ground",Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",Incorrect data in original table; replaced with values of other Phalacrocorax species
+"Cormorant, Red-faced",Phalacrocorax urile,PHUR,RFCO,1240,R,Cliff,Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Cowbird, Bronzed",Molothrus aeneus,MOAE,BROC,4960,C,"Woody Upper Canopy, Shrub",Parasitic,"Insects, Seeds",Ground,Ground Gleaner,"Shrubland, Cropland",NA
+"Cowbird, Brown-headed",Molothrus ater,MOAT,BHCO,4950,B,"Woody Upper Canopy, Shrub",Parasitic,"Insects, Seeds",Ground,Ground Gleaner,"Forest Edge, Forest",NA
+"Crane, Sandhill",Grus canadensis,GRCA1,SACR,2060,R,Ground,Saucer,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Crane, Whooping",Grus americana,GRAM,WHCR,2040,R,Ground,Saucer,"Aquatic Inverts, Fish","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Creeper, Brown",Certhia americana,CEAM,BRCR,7260,B,Woody Upper Canopy,Cup,"Insects, Nuts","Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Crossbill, Red",Loxia curvirostra,LOCU2,RECR,5210,R,Woody Upper Canopy,Cup,"Seeds, Fruit",Foliage,Foliage Gleaner,Forest,NA
+"Crossbill, White-winged",Loxia leucoptera,LOLE1,WWCR,5220,R,Woody Upper Canopy,Cup,Seeds,"Foliage, Ground","Foliage Gleaner, Ground Gleaner",Forest,NA
+"Crow, American",Corvus brachyrhynchos,COBR1,AMCR,4880,R,"Woody Upper Canopy, Shrub",Cup,"Insects, Seeds",Ground,"Scavenger, Ground Gleaner","Forest, Riparian",NA
+"Crow, Fish",Corvus ossifragus,COOS,FICR,4900,R,"Woody Upper Canopy, Shrub",Cup,"Aquatic Inverts, Carrion",Ground,"Scavenger, Ground Gleaner","Shoreline, Freshwater",NA
+"Crow, Northwestern",Corvus caurinus,COCA2,NOCR,4890,R,"Woody Upper Canopy, Shrub",Cup,"Aquatic Inverts, Insects",Ground,"Scavenger, Ground Gleaner","Forest, Forest Edge",NA
+"Cuckoo, Black-billed",Coccyzus erythropthalmus,COER,BBCU,3880,A,"Woody Lower Canopy, Shrub","Platform, Parasitic","Insects, Fish",Foliage,"Scavenger, Foliage Gleaner","Forest, Forest Edge",NA
+"Cuckoo, Mangrove",Coccyzus minor,COMI,MACU,3860,D,"Woody Lower Canopy, Shrub",Platform,"Insects, Fruit",Foliage,Foliage Gleaner,"Swamp/Marsh, Shrubland",NA
+"Cuckoo, Yellow-billed",Coccyzus americanus,COAM,YBCU,3870,A,"Woody Lower Canopy, Shrub","Platform, Parasitic",Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Riparian",NA
+"Curlew, Bristle-thighed",Numenius tahitiensis,NUTA,BTCU,2680,R,Ground,Scrape,"Fruit, Insects",Ground,Ground Gleaner,Tundra,NA
+"Curlew, Eskimo",Numenius borealis,NUBO,ESCU,2660,R,Ground,Scrape,"Insects, Fruit",Ground,"Ground Gleaner, Prober","Tundra, Shoreline",NA
+"Curlew, Long-billed",Numenius americanus,NUAM,LBCU,2640,A,Ground,Scrape,"Insects, Aquatic Inverts","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Riparian",NA
+Dickcissel,Spiza americana,SPAM,DICK,6040,A,"Ground, Shrub",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Dipper, American",Cinclus mexicanus,CIME,AMDI,7010,R,"Cliff, MMS",Oven,"Aquatic Inverts, Fish",Water,Prober,"Freshwater, Riparian",NA
+"Dove, Common Ground",Columbina passerina,COPA,COGD,3200,R,"Ground, Shrub",Saucer,"Seeds, Fruit",Ground,Ground Gleaner,"Forest Edge, Urban",NA
+"Dove, Inca",Columbina inca,COIN1,INDO,3210,R,"Shrub, Woody Lower Canopy",Saucer,Seeds,Ground,Ground Gleaner,"Forest Edge, Shrubland",NA
+"Dove, Mourning",Zenaida macroura,ZEMA,MODO,3160,B,"Woody Lower Canopy, Ground",Saucer,Seeds,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest Edge, Cropland",NA
+"Dove, Rock",Columba livia,COLI,RODO,3131,R,"MMS, Cliff",Saucer,Seeds,Ground,Ground Gleaner,Urban,NA
+"Dove, White-tipped",Leptotila verreauxi,LEVE,WTDO,3180,R,Woody Lower Canopy,Saucer,"Seeds, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Riparian, Cropland",NA
+"Dove, White-winged",Zenaida asiatica,ZEAS,WWDO,3190,C,Woody Lower Canopy,Saucer,"Seeds, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Riparian, Shrubland",NA
+Dovekie,Alle alle,ALAL1,DOVE,340,R,Cliff,Crevice,"Aquatic Inverts, Fish",Water,Surface Dives,"Coastal, Pelagic",NA
+"Dowitcher, Long-billed",Limnodromus scolopaceus,LISC,LBDO,2320,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Prober,"Tundra, Swamp/Marsh",NA
+"Dowitcher, Short-billed",Limnodromus griseus,LIGR,SBDO,2310,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Prober,"Tundra, Swamp/Marsh",NA
+"Duck, American Black",Anas rubripes,ANRU,ABDU,1330,R,Ground,Scrape,"Aquatic Inverts, Seeds",Water,Dabbler,"Swamp/Marsh, Riparian",NA
+"Duck, Black-bellied Whistling",Dendrocygna autumnalis,DEAU1,BBWD,1770,R,"Snag, Woody Upper Canopy",Cavity,Seeds,Ground,Ground Gleaner,"Swamp/Marsh, Riparian",NA
+"Duck, Fulvous Whistling",Dendrocygna bicolor,DEBI,FUWD,1780,R,"Ground, Woody Lower Canopy",Saucer,"Greens, Seeds","Water, Ground","Surface Dips, Ground Gleaner",Swamp/Marsh,NA
+"Duck, Harlequin",Histrionicus histrionicus,HIHI1,HARD,1550,R,Ground,Scrape,Aquatic Inverts,Water,"Surface Dives, Dabbler","Freshwater, Coastal",NA
+"Duck, Masked",Oxyura dominica,OXDO,MADU,1680,R,Ground,Scrape,"Greens, Insects",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Duck, Mottled",Anas fulvigula,ANFU,MODU,1340,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Dabbler,Swamp/Marsh,NA
+"Duck, Ring-necked",Aythya collaris,AYCO,RNDU,1500,R,"Ground, Floating",Scrape,"Greens, Aquatic Inverts",Water,Surface Dives,Swamp/Marsh,NA
+"Duck, Ruddy",Oxyura jamaicensis,OXJA,RUDU,1670,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Duck, Tufted",Aythya fuligula,AYFU,TUDU,1491,R,"Ground, Bank",Burrow,"Greens, Insects",Water,"Ground Gleaner, Skimmer","Coastal, Freshwater",NA
+"Duck, Wood",Aix sponsa,AISP,WODU,1440,R,"Snag, MMS",Cavity,"Aquatic Inverts, Seeds",Water,Dabbler,"Swamp/Marsh, Riparian",NA
+Dunlin,Calidris alpina,CAAL1,DUNL,2430,R,Ground,Scrape,"Insects, Seeds","Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Eagle, Bald",Haliaeetus leucocephalus,HALE,BAEA,3520,R,"Woody Upper Canopy, Cliff",Platform,"Fish, Birds","Water, Ground","High Patrol, Low Patrol","Freshwater, Coastal",NA
+"Eagle, Golden",Aquila chrysaetos,AQCH,GOEA,3490,B,"Cliff, Woody Upper Canopy",Platform,"Small Mammals, Birds",Ground,"High Patrol, Swooper","Grassland, Forest Edge",NA
+"Eagle, White-tailed",Haliaeetus albicilla,HAAL,WTEA,3510,R,"Woody Upper Canopy, Cliff",Platform,"Fish, Birds","Water, Air","Skimmer, Hawker","Tundra, Coastal",NA
+"Egret, Cattle",Bubulcus ibis,BUIB,CAEG,2001,R,"Woody Lower Canopy, Shrub",Platform,"Insects, Small Verts",Ground,Ground Gleaner,"Swamp/Marsh, Grassland",NA
+"Egret, Great",Casmerodius albus,CAAL2,GREG,1960,R,"Woody Upper Canopy, Shrub",Platform,"Fish, Small Verts",Water,Ambusher,Swamp/Marsh,NA
+"Egret, Reddish",Egretta rufescens,EGRU,REEG,1980,R,"Woody Lower Canopy, Shrub",Platform,"Fish, Aquatic Inverts",Water,Ambusher,"Coastal, Swamp/Marsh",NA
+"Egret, Snowy",Egretta thula,EGTH,SNEG,1970,R,"Woody Lower Canopy, Shrub",Platform,"Aquatic Inverts, Fish",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Eider, Common",Somateria mollissima,SOMO,COEI,1590,R,Ground,Scrape,"Aquatic Inverts, Fish",Water,"Surface Dives, Dabbler","Tundra, Coastal",NA
+"Eider, King",Somateria spectabilis,SOSP,KIEI,1620,R,Ground,Scrape,Aquatic Inverts,Water,"Surface Dives, Dabbler","Tundra, Coastal",NA
+"Eider, Spectacled",Somateria fischeri,SOFI,SPEI,1580,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,"Dabbler, Surface Dips","Tundra, Coastal",NA
+"Eider, Steller’s",Polysticta stelleri,POST,STEI,1570,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,"Dabbler, Surface Dips","Tundra, Coastal",NA
+"Falcon, Aplomado",Falco femoralis,FAFE,APFA,3590,R,"Woody Lower Canopy, Shrub",Platform,"Birds, Insects",Air,"Aerial Pursuit, Hawker","Grassland, Shrubland",NA
+"Falcon, Peregrine",Falco peregrinus,FAPE,PEFA,3560,A,"Cliff, Woody Upper Canopy",Scrape,Birds,Air,Aerial Pursuit,"Forest, Grassland",NA
+"Falcon, Prairie",Falco mexicanus,FAME,PRFA,3550,B,"Cliff, Woody Upper Canopy","Scrape, Crevice","Birds, Small Mammals","Air, Ground","Aerial Pursuit, Low Patrol","Grassland, Tundra",NA
+Fieldfare,Turdus pilaris,TUPI,FIEL,7612,R,"Ground, Woody Lower Canopy",Cup,"Insects, Seeds",Ground,Ground Gleaner,Forest,NA
+"Finch, Cassin’s",Carpodacus cassinii,CACA7,CAFI,5180,B,Woody Upper Canopy,Cup,"Seeds, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Finch, House",Carpodacus mexicanus,CAME2,HOFI,5190,R,"Woody Upper Canopy, Shrub","Cup, Cavity","Seeds, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Urban",NA
+"Finch, Purple",Carpodacus purpureus,CAPU1,PUFI,5170,B,Woody Upper Canopy,Cup,"Seeds, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Finch, Rosy",Leucosticte arctoa,LEAR,ROFI,5240,R,"Ground, Cliff","Cup, Crevice","Seeds, Insects",Ground,Ground Gleaner,"Rocky Slope, Tundra",NA
+"Flamingo, Greater",Phoenicopterus ruber,PHRU,GREF,1820,R,Ground,Saucer,"Aquatic Inverts, Greens",Water,Prober,"Coastal, Swamp/Marsh",NA
+"Flicker, Northern",Colaptes auratus,COAU,NOFL,4120,B,"Snag, Woody Lower Canopy",Cavity,"Insects, Seeds","Ground, Air","Ground Gleaner, Hawker","Forest, Urban",NA
+"Flycatcher, Acadian",Empidonax virescens,EMVI,ACFL,4650,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Fruit",Air,Hawker,"Riparian, Swamp/Marsh",NA
+"Flycatcher, Alder",Empidonax alnorum,EMAL,ALFL,4661,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Air,Hawker,"Swamp/Marsh, Shrubland",NA
+"Flycatcher, Ash-throated",Myiarchus cinerascens,MYCI,ATFL,4540,A,Woody Lower Canopy,Cavity,"Insects, Fruit",Air,"Hover Gleaner, Hawker","Shrubland, Riparian",NA
+"Flycatcher, Brown-crested",Myiarchus tyrannulus,MYTY,BCFL,4530,C,"Woody Lower Canopy, Shrub",Cavity,"Insects, Fruit",Air,"Hover Gleaner, Hawker","Shrubland, Desert",NA
+"Flycatcher, Buff-breasted",Empidonax fulvifrons,EMFU,BBFL,4700,C,Woody Upper Canopy,Cup,Insects,Air,Hawker,Forest,NA
+"Flycatcher, Dusky",Empidonax oberholseri,EMOB,DUFL,4690,A,"Shrub, Woody Lower Canopy",Cup,Insects,Air,"Hawker, Hover Gleaner","Forest, Shrubland",NA
+"Flycatcher, Dusky-capped",Myiarchus tuberculifer,MYTU,DCFL,4550,C,Woody Upper Canopy,Cavity,"Insects, Fruit",Air,"Hover Gleaner, Hawker","Riparian, Forest",NA
+"Flycatcher, Gray",Empidonax wrightii,EMWR,GRFL,4691,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Air, Ground","Hawker, Ground Gleaner",Shrubland,NA
+"Flycatcher, Great-crested",Myiarchus crinitus,MYCR,GCFL,4520,A,"Woody Upper Canopy, Snag",Cavity,"Insects, Fruit","Air, Ground","Hawker, Ground Gleaner","Forest Edge, Forest",NA
+"Flycatcher, Hammond’s",Empidonax hammondii,EMHA,HAFL,4680,A,Woody Upper Canopy,Cup,Insects,Air,Hawker,Forest,NA
+"Flycatcher, Least",Empidonax minimus,EMMI1,LEFL,4670,A,"Woody Upper Canopy, Shrub",Cup,"Insects, Fruit",Air,"Hover Gleaner, Hawker","Forest, Urban",NA
+"Flycatcher, Olive-sided",Contopus borealis,COBO,OSFL,4590,A,Woody Upper Canopy,Cup,Insects,Air,Hawker,Forest,NA
+"Flycatcher, Scissor-tailed",Tyrannus forficatus,TYFO,STFL,4430,A,"Woody Upper Canopy, Shrub",Cup,"Insects, Fruit","Air, Foliage","Hawker, Foliage Gleaner","Grassland, Shrubland",NA
+"Flycatcher, Sulphur-bellied",Myiodynastes luteiventris,MYLU,SBFL,4510,C,Woody Upper Canopy,Cavity,"Insects, Fruit",Air,Hawker,"Riparian, Forest",NA
+"Flycatcher, Vermilion",Pyrocephalus rubinus,PYRU,VEFL,4710,A,Woody Upper Canopy,Cup,Insects,Air,"Hawker, Hover & Pounce","Riparian, Forest Edge",NA
+"Flycatcher, Western",Empidonax difficilis,EMDI,WEFL,4640,R,"Woody Lower Canopy, Cliff",Cavity,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Forest, Riparian",NA
+"Flycatcher, Willow",Empidonax traillii,EMTR,WIFL,4660,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner",Swamp/Marsh,NA
+"Flycatcher, Yellow-bellied",Empidonax flaviventris,EMFL,YBFL,4630,A,Ground,Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Forest, Swamp/Marsh",NA
+"Frigatebird, Magnificent",Fregata magnificens,FRMA,MAFR,1280,R,"Shrub, Woody Lower Canopy",Platform,"Fish, Aquatic Inverts","Water, Air","Low Patrol, Hawker","Coastal, Pelagic",NA
+"Fulmar, Northern",Fulmarus glacialis,FUGL,NOFU,860,R,"Cliff, Ground","Scrape, Saucer","Fish, Aquatic Inverts",Water,"Surface Dips, High Dives",Pelagic,NA
+Gadwall,Anas strepera,ANST,GADW,1350,R,Ground,Scrape,"Greens, Insects",Water,"Dabbler, Surface Dives","Swamp/Marsh, Grassland",NA
+"Gallinule, Purple",Porphyrula martinica,POMA,PUGA,2180,R,Floating,Platform,"Seeds, Fruit",Ground,Ground Gleaner,Swamp/Marsh,NA
+"Gannet, Northern",Sula bassanus,SUBA,NOGA,1170,R,"Cliff, Ground",Platform,Fish,Water,High Dives,"Coastal, Pelagic",NA
+"Gnatcatcher, Black-tailed",Polioptila melanura,POME,BTGN,7520,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Foliage, Air","Foliage Gleaner, Hover Gleaner",Shrubland,NA
+"Gnatcatcher, Blue-gray",Polioptila caerulea,POCA,BGGN,7510,A,Woody Lower Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Shrubland",NA
+"Godwit, Bar-tailed",Limosa lapponica,LILA,BARG,2500,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Prober,"Tundra, Coastal",NA
+"Godwit, Hudsonian",Limosa haemastica,LIHA,HUGO,2510,R,Ground,Scrape,"Insects, Aquatic Inverts",Water,Prober,Tundra,NA
+"Godwit, Marbled",Limosa fedoa,LIFE,MAGO,2490,R,Ground,Scrape,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner","Grassland, Swamp/Marsh",NA
+"Goldeneye, Barrow’s",Bucephala islandica,BUIS,BAGO,1520,R,"Snag, Woody Upper Canopy",Cavity,Aquatic Inverts,Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Goldeneye, Common",Bucephala clangula,BUCL,COGO,1510,R,"Snag, Woody Upper Canopy",Cavity,"Aquatic Inverts, Fish",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Goldfinch, American",Carduelis tristis,CATR,AMGO,5290,B,"Shrub, Woody Lower Canopy",Cup,"Seeds, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Grassland, Riparian",NA
+"Goldfinch, Lawrence’s",Carduelis lawrencei,CALA3,LAGO,5310,B,"Woody Upper Canopy, Shrub",Cup,"Seeds, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Riparian, Shrubland",NA
+"Goldfinch, Lesser",Carduelis psaltria,CAPS,LEGO,5300,B,"Woody Lower Canopy, Shrub",Cup,"Seeds, Insects",Foliage,Foliage Gleaner,"Forest Edge, Grassland",NA
+"Goose, Barnacle",Branta leucopsis,BRLE,BRNG,1750,R,"Cliff, Ground",Scrape,"Greens, Seeds",Ground,Ground Gleaner,"Tundra, Coastal",NA
+"Goose, Canada",Branta canadensis,BRCA1,CAGO,1720,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Swamp/Marsh, Freshwater",NA
+"Goose, Emperor",Chen canagica,CHCA1,EMGO,1760,R,Ground,Scrape,"Greens, Aquatic Inverts","Ground, Water","Ground Gleaner, Dabbler","Swamp/Marsh, Tundra",NA
+"Goose, Greater White-fronted",Anser albifrons,ANAL,GWFG,1710,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Freshwater, Swamp/Marsh",NA
+"Goose, Pink-footed",Anser brachyrhynchus,ANBR,PFGO,1712,R,"Ground, Cliff",Scrape,"Grain, Greens",Ground,Ground Gleaner,"Tundra, Coastal",NA
+"Goose, Ross’",Chen rossii,CHRO,ROGO,1700,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Freshwater, Tundra",NA
+"Goose, Snow",Chen caerulescens,CHCA,SNGO,1690,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Tundra, Freshwater",NA
+"Goshawk, Northern",Accipiter gentilis,ACGE,NOGO,3340,B,Woody Upper Canopy,Platform,"Birds, Small Mammals","Air, Ground","Aerial Pursuit, Low Patrol",Forest,NA
+"Grackle, Boat-tailed",Quiscalus major,QUMA,BTGR,5130,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Small Verts","Ground, Air","Ground Gleaner, Hawker","Swamp/Marsh, Cropland",NA
+"Grackle, Common",Quiscalus quiscula,QUQU,COGR,5110,R,Woody Lower Canopy,"Cup, Cavity","Insects, Aquatic Inverts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Grassland, Urban",NA
+"Grackle, Great-tailed",Quiscalus mexicanus,QUME,GTGR,5120,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Small Verts",Ground,Ground Gleaner,"Grassland, Swamp/Marsh",NA
+"Grebe, Clark’s",Aechmophorus clarkii,AECL,CLGR,11,R,Ground,Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Grebe, Eared",Podiceps nigricollis,PONI,EAGR,40,R,Floating,Platform,"Aquatic Inverts, Fish",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Grebe, Horned",Podiceps auritus,POAU,HOGR,30,R,Floating,Platform,"Aquatic Inverts, Fish",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Grebe, Least",Tachybaptus dominicus,TADO,LEGR,50,R,Floating,Platform,"Aquatic Inverts, Fish",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Grebe, Pied-billed",Podilymbus podiceps,POPO,PBGR,60,R,Floating,Platform,"Aquatic Inverts, Fish",Water,Surface Dives,"Swamp/Marsh, Riparian",NA
+"Grebe, Red-necked",Podiceps grisegena,POGR,RNGR,20,R,Floating,Platform,"Aquatic Inverts, Fish",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Grebe, Western",Aechmophorus occidentalis,AEOC,WEGR,10,R,Floating,Platform,"Fish, Aquatic Inverts",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Grosbeak, Black-headed",Pheucticus melanocephalus,PHME1,BHGR,5960,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Seeds",Foliage,Foliage Gleaner,"Riparian, Forest Edge",NA
+"Grosbeak, Blue",Guiraca caerulea,GUCA,BLGR,5970,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Riparian, Forest Edge",NA
+"Grosbeak, Evening",Coccothraustes vespertinus,COVE,EVGR,5140,R,Woody Upper Canopy,Cup,"Seeds, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Urban",NA
+"Grosbeak, Pine",Pinicola enucleator,PIEN,PIGR,5150,R,"Woody Lower Canopy, Shrub",Cup,"Seeds, Fruit","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest, Forest Edge",NA
+"Grosbeak, Rose-breasted",Pheucticus ludovicianus,PHLU,RBGR,5950,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Seeds","Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Shrubland",NA
+"Grouse, Blue",Dendragapus obscurus,DEOB,BLGS,2970,R,Ground,Scrape,"Greens, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Grouse, Ruffed",Bonasa umbellus,BOUM,RUGR,3000,R,Ground,Scrape,"Greens, Seeds","Foliage, Ground","Foliage Browser, Ground Gleaner",Forest,NA
+"Grouse, Sage",Centrocercus urophasianus,CEUR,SAGR,3090,R,Ground,Scrape,"Greens, Insects","Foliage, Ground","Foliage Browser, Ground Gleaner",Shrubland,NA
+"Grouse, Sharp-tailed",Tympanuchus phasianellus,TYPH,STGR,3080,R,Ground,Scrape,"Greens, Seeds","Ground, Foliage","Ground Gleaner, Foliage Browser","Grassland, Shrubland",NA
+"Grouse, Spruce",Dendragapus canadensis,DECA,SPGR,2980,R,Ground,Scrape,"Greens, Fruit","Foliage, Ground","Foliage Browser, Ground Gleaner",Forest,NA
+"Guillemot, Black",Cepphus grylle,CEGR,BLGU,270,R,"Cliff, Ground",Crevice,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Guillemot, Pigeon",Cepphus columba,CECO1,PIGU,290,R,Cliff,"Crevice, Burrow","Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Gull, Bonaparte’s",Larus philadelphia,LAPH,BOGU,600,R,"Woody Lower Canopy, Ground",Saucer,"Insects, Aquatic Inverts","Ground, Water","Scavenger, Surface Dives","Shoreline, Freshwater",NA
+"Gull, California",Larus californicus,LACA1,CAGU,530,R,Ground,Scrape,"Insects, Small Verts",Water,"Scavenger, Surface Dives","Coastal, Freshwater",NA
+"Gull, Common Black-headed",Larus ridibundus,LARI,CBHG,551,R,Ground,Scrape,Insects,Water,"Scavenger, Ground Gleaner","Coastal, Freshwater",NA
+"Gull, Franklin’s",Larus pipixcan,LAPI,FRGU,590,R,Floating,Platform,Insects,Water,"Scavenger, Ground Gleaner","Freshwater, Cropland",NA
+"Gull, Glaucous",Larus hyperboreus,LAHY,GLGU,420,R,"Cliff, Ground",Saucer,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol",Coastal,NA
+"Gull, Glaucous-winged",Larus glaucescens,LAGL,GWGU,440,R,"Cliff, Ground",Saucer,"Aquatic Inverts, Fish","Water, Ground","Scavenger, Ground Gleaner",Coastal,NA
+"Gull, Great Black-backed",Larus marinus,LAMA,GBBG,470,R,Ground,Saucer,"Birds, Fish","Ground, Water","Scavenger, Ground Gleaner",Coastal,NA
+"Gull, Heermann’s",Larus heermanni,LAHE,HEEG,570,R,Ground,"Scrape, Saucer","Fish, Aquatic Inverts",Water,"Scavenger, High Dives",Coastal,NA
+"Gull, Herring",Larus argentatus,LAAR,HERG,510,R,"Ground, Cliff",Saucer,"Seeds, Birds","Water, Ground","Scavenger, Ground Gleaner","Coastal, Freshwater",NA
+"Gull, Iceland",Larus glaucoides,LAGL1,ICGU,430,R,"Cliff, Ground",Saucer,"Fish, Aquatic Inverts",Water,"Scavenger, High Dives",Coastal,NA
+"Gull, Ivory",Pagophila eburnea,PAEB,IVGU,390,R,"Ground, Cliff","Saucer, Scrape","Fish, Aquatic Inverts","Water, Ground","Scavenger, High Dives",Coastal,NA
+"Gull, Laughing",Larus atricilla,LAAT,LAGU,580,R,Ground,"Scrape, Saucer",Aquatic Inverts,"Ground, Water","Scavenger, Ground Gleaner",Swamp/Marsh,NA
+"Gull, Lesser Black-backed",Larus fuscus,LAFU,LBBG,500,R,Ground,Saucer,"Fish, Aquatic Inverts",Water,Scavenger,Coastal,NA
+"Gull, Little",Larus minutus,LAMI,LIGU,601,R,Ground,Scrape,"Insects, Aquatic Inverts",Water,Surface Dips,"Swamp/Marsh, Grassland",NA
+"Gull, Mew",Larus canus,LACA2,MEGU,550,R,"Ground, Floating","Scrape, Cup",Insects,"Ground, Water","Scavenger, Ground Gleaner","Coastal, Tundra",NA
+"Gull, Ring-billed",Larus delawarensis,LADE1,RBGU,540,R,Ground,Saucer,"Fish, Insects","Ground, Water","Scavenger, Ground Gleaner","Freshwater, Coastal",NA
+"Gull, Ross’",Rhodostethia rosea,RHRO,ROGU,610,R,Ground,Scrape,"Insects, Fish","Water, Ground","Surface Dips, Ground Gleaner","Coastal, Tundra",NA
+"Gull, Sabine’s",Xema sabini,XESA,SAGU,620,R,Ground,Scrape,"Fish, Insects","Ground, Water","Scavenger, Ground Gleaner","Tundra, Freshwater",NA
+"Gull, Thayer’s",Larus thayeri,LATH,THGU,431,R,Cliff,Saucer,"Fish, Fruit","Water, Ground","Scavenger, Low Patrol",Coastal,NA
+"Gull, Western",Larus occidentalis,LAOC,WEGU,490,R,"Cliff, Ground",Saucer,"Fish, Aquatic Inverts","Water, Ground","Scavenger, Low Patrol",Coastal,NA
+"Gull, Yellow-footed",Larus livens,LALI,YFGU,491,R,Ground,Saucer,"Fish, Aquatic Inverts",Water,Scavenger,Coastal,NA
+Gyrfalcon,Falco rusticolus,FARU,GYRF,3540,R,"Cliff, Woody Upper Canopy",Scrape,"Birds, Small Mammals","Air, Ground","Aerial Pursuit, Low Patrol","Tundra, Rocky Slope",NA
+"Harrier, Northern",Circus cyaneus,CICY,NOHA,3310,B,"Ground, Shrub",Platform,"Small Mammals, Small Verts Ground, Air",Low Patrol,"Grassland, Swamp/Marsh",,NA
+"Hawk, Broad-winged",Buteo platypterus,BUPL,BWHA,3430,A,Woody Upper Canopy,Platform,"Small Mammals, Birds","Ground, Air",Swooper,Forest,NA
+"Hawk, Common Black",Buteogallus anthracinus,BUAN,CBHA,3450,C,Woody Upper Canopy,Platform,"Small Verts, Fish","Ground, Water",Swooper,"Swamp/Marsh, Riparian",NA
+"Hawk, Cooper’s",Accipiter cooperii,ACCO,COHA,3330,B,Woody Upper Canopy,Platform,"Birds, Small Mammals","Air, Ground","Aerial Pursuit, Low Patrol","Forest, Riparian",NA
+"Hawk, Ferruginous",Buteo regalis,BURE1,FEHA,3480,B,"Woody Upper Canopy, Cliff",Platform,"Small Mammals, Birds",Ground,"Hover & Pounce, Swooper",Grassland,NA
+"Hawk, Gray",Buteo nitidus,BUNI,GRHA,3460,C,Woody Upper Canopy,Platform,"Small Verts, Birds",Ground,"Swooper, Low Patrol","Riparian, Forest",NA
+"Hawk, Harris’",Parabuteo unicinctus,PAUN,HRSH,3350,R,"Woody Upper Canopy, Shrub",Platform,"Small Mammals, Small Verts",Ground,"Low Patrol, Swooper","Grassland, Shrubland",NA
+"Hawk, Red-shouldered",Buteo lineatus,BULI,RSHA,3390,B,Woody Upper Canopy,Platform,"Small Mammals, Small Verts",Ground,"Low Patrol, High Patrol","Riparian, Swamp/Marsh",NA
+"Hawk, Red-tailed",Buteo jamaicensis,BUJA,RTHA,3370,B,"Woody Upper Canopy, Cliff",Platform,"Small Mammals, Birds",Ground,"High Patrol, Swooper","Forest, Grassland",NA
+"Hawk, Rough-legged",Buteo lagopus,BULA,RLHA,3470,R,"Cliff, Woody Upper Canopy",Platform,"Small Mammals, Insects",Ground,"Hover & Pounce, Swooper","Forest, Tundra",NA
+"Hawk, Sharp-shinned",Accipiter striatus,ACST,SSHA,3320,B,Woody Upper Canopy,Platform,Birds,Air,Aerial Pursuit,Forest,NA
+"Hawk, Short-tailed",Buteo brachyurus,BUBR,STHA,3440,R,Woody Upper Canopy,Platform,Birds,Ground,High Patrol,"Grassland, Swamp/Marsh",NA
+"Hawk, Swainson’s",Buteo swainsoni,BUSW,SWHA,3420,A,"Woody Upper Canopy, Cliff",Platform,"Small Mammals, Small Verts",Ground,High Patrol,"Grassland, Forest",NA
+"Hawk, White-tailed",Buteo albicaudatus,BUAL2,WTHA,3410,R,"Woody Lower Canopy, Shrub",Platform,"Small Mammals, Small Verts",Ground,"High Patrol, Hover & Pounce","Grassland, Shrubland",NA
+"Hawk, Zone-tailed",Buteo albonotatus,BUAL3,ZTHA,3400,C,Woody Upper Canopy,Platform,"Small Verts, Birds",Ground,High Patrol,"Shrubland, Grassland",NA
+"Heron, Black-crowned Night",Nycticorax nycticorax,NYNY,BCNH,2020,R,"Woody Lower Canopy, Ground",Platform,"Fish, Small Verts",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Heron, Great Blue",Ardea herodias,ARHE,GTBH,1940,R,Woody Upper Canopy,Platform,"Fish, Aquatic Inverts",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Heron, Green-backed",Butorides striatus,BUST,GNBH,2010,R,"Woody Lower Canopy, Shrub",Platform,"Fish, Insects",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Heron, Little Blue",Egretta caerulea,EGCA,LBHE,2000,R,"Woody Upper Canopy, Shrub",Platform,"Fish, Small Verts",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Heron, Tricolored",Egretta tricolor,EGTR,TRHE,1990,R,"Woody Lower Canopy, Shrub",Platform,"Fish, Small Verts",Water,Ambusher,"Swamp/Marsh, Freshwater",NA
+"Heron, Yellow-crowned Night",Nycticorax violaceus,NYVI,YCNH,2030,R,"Woody Upper Canopy, Shrub",Platform,"Aquatic Inverts, Insects","Water, Ground","Ambusher, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Hummingbird, Allen’s",Selasphorus sasin,SESA,ALHU,4340,A,"Woody Lower Canopy, Shrub",Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Shrubland, Forest",NA
+"Hummingbird, Anna’s",Calypte anna,CAAN,ANHU,4310,B,"Woody Lower Canopy, Shrub",Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Hummingbird, Berylline",Amazilia beryllina,AMBE,BEHU,4381,R,Woody Upper Canopy,Cup,"Nectar, Insects",Air,Hover Gleaner,Forest,NA
+"Hummingbird, Black-chinned",Archilochus alexandri,ARAL1,BCHU,4290,A,Woody Lower Canopy,Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Hummingbird, Blue-throated",Lampornis clemenciae,LACL,BLUH,4270,C,"Ground, Woody Lower Canopy",Cup,"Insects, Nectar",Air,"Hover Gleaner, Hawker","Forest, Riparian",NA
+"Hummingbird, Broad-billed",Cynanthus latirostris,CYLA,BBLH,4410,C,"Woody Lower Canopy, Shrub",Cup,"Nectar, Insects",Air,Hover Gleaner,"Shrubland, Riparian",NA
+"Hummingbird, Broad-tailed",Selasphorus platycercus,SEPL,BTLH,4320,A,Woody Lower Canopy,Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Hummingbird, Buff-bellied",Amazilia yucatanensis,AMYU,BUFH,4390,C,"Shrub, Woody Lower Canopy",Cup,"Nectar, Insects",Air,Hover Gleaner,"Forest, Shrubland",NA
+"Hummingbird, Calliope",Stellula calliope,STCA,CAHU,4360,A,"Woody Upper Canopy, Shrub",Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Hummingbird, Costa’s",Calypte costae,CACO,COHU,4300,A,"Shrub, Woody Lower Canopy",Cup,"Nectar, Insects",Air,Hover Gleaner,Shrubland,NA
+"Hummingbird, Lucifer",Calothorax lucifer,CALU,LUHU,4370,C,"Shrub, Woody Lower Canopy",Cup,"Insects, Nectar",Air,Hover Gleaner,Shrubland,NA
+"Hummingbird, Magnificent",Eugenes fulgens,EUFU,MAHU,4260,C,Woody Upper Canopy,Cup,"Nectar, Insects",Air,Hover Gleaner,Forest,NA
+"Hummingbird, Ruby-throated",Archilochus colubris,ARCO,RTHU,4280,A,Woody Lower Canopy,Cup,"Nectar, Insects",Air,Hover Gleaner,"Forest, Urban",NA
+"Hummingbird, Rufous",Selasphorus rufus,SERU,RUHU,4330,A,Woody Lower Canopy,Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Hummingbird, Violet-crowned",Amazilia violiceps,AMVI,VCHU,4391,C,Woody Upper Canopy,Cup,"Nectar, Insects",Air,Hover Gleaner,"Forest, Riparian",NA
+"Hummingbird, White-eared",Hylocharis leucotis,HYLE,WEHU,4401,R,"Shrub, Woody Lower Canopy",Cup,"Nectar, Insects",Air,"Hover Gleaner, Hawker","Forest, Shrubland",NA
+"Ibis, Glossy",Plegadis falcinellus,PLFA,GLIB,1860,R,"Ground, Shrub",Platform,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner",Swamp/Marsh,NA
+"Ibis, Scarlet",Eudocimus ruber,EURU,SCIB,1850,R,Woody Upper Canopy,Platform,"Aquatic Inverts, Fish",Water,Prober,"Swamp/Marsh, Freshwater",NA
+"Ibis, White",Eudocimus albus,EUAL,WHIB,1840,R,Woody Lower Canopy,Platform,"Aquatic Inverts, Fish","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Ibis, White-faced",Plegadis chihi,PLCH,WFIB,1870,R,"Ground, Shrub",Platform,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Jacana, Northern",Jacana spinosa,JASP,NOJA,2880,R,Floating,Platform,Insects,"Foliage, Ground","Foliage Gleaner, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Jaeger, Long-tailed",Stercorarius longicaudus,STLO1,LTJA,380,R,Ground,Scrape,"Small Mammals, Birds","Ground, Air","Hover & Pounce, Piracy","Grassland, Tundra",NA
+"Jaeger, Parasitic",Stercorarius parasiticus,STPA,PAJA,370,R,Ground,Scrape,"Birds, Small Mammals","Ground, Air","Hover & Pounce, Piracy","Shrubland, Tundra",NA
+"Jaeger, Pomarine",Stercorarius pomarinus,STPO,POJA,360,R,Ground,Scrape,"Small Mammals, Birds","Ground, Air","Low Patrol, Piracy","Swamp/Marsh, Tundra",NA
+"Jay, Blue",Cyanocitta cristata,CYCR,BLJA,4770,R,Woody Lower Canopy,Cup,"Insects, Seeds","Ground, Air","Ground Gleaner, Hawker","Forest, Urban",NA
+"Jay, Brown",Cyanocorax morio,CYMO,BRJA,4832,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Small Verts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Jay, Gray",Perisoreus canadensis,PECA,GRAJ,4840,R,Woody Lower Canopy,Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Jay, Gray-breasted",Aphelocoma ultramarina,APUL,GBJA,4820,R,Woody Lower Canopy,Cup,Nuts,Ground,Ground Gleaner,"Forest, Shrubland",NA
+"Jay, Green",Cyanocorax yncas,CYYN,GREJ,4830,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Small Verts","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Shrubland, Forest",NA
+"Jay, Pinyon",Gymnorhinus cyanocephalus,GYCY,PIJA,4920,R,Woody Lower Canopy,Cup,"Nuts, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Forest",NA
+"Jay, Scrub",Aphelocoma coerulescens,APCO,SCJA,4810,R,"Woody Lower Canopy, Shrub",Cup,"Insects, Nuts",Ground,Ground Gleaner,"Shrubland, Forest",NA
+"Jay, Steller’s",Cyanocitta stelleri,CYST,STJA,4780,R,Woody Lower Canopy,Cup,"Nuts, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Junco, Dark-eyed",Junco hyemalis,JUHY,DEJU,5670,B,"Ground, Bank","Cup, Cavity","Seeds, Insects","Ground, Air","Ground Gleaner, Hawker","Forest, Forest Edge",NA
+"Junco, Yellow-eyed",Junco phaeonotus,JUPH,YEJU,5700,R,"Ground, Shrub","Cup, Cavity","Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Shrubland",NA
+"Kestrel, American",Falco sparverius,FASP,AMKE,3600,B,"Snag, Cliff",Cavity,"Insects, Small Verts","Ground, Air","Hover & Pounce, Hawker","Grassland, Cropland",NA
+Killdeer,Charadrius vociferus,CHVO,KILL,2730,B,Ground,Scrape,Insects,Ground,Ground Gleaner,"Shoreline, Freshwater",NA
+"Kingbird, Cassin’s",Tyrannus vociferans,TYVO,CAKI,4480,A,Woody Upper Canopy,Cup,"Insects, Fruit","Air, Ground","Hawker, Hover & Pounce","Forest, Shrubland",NA
+"Kingbird, Couch’s",Tyrannus couchii,TYCO,COKI,4461,C,Woody Lower Canopy,Cup,"Insects, Fruit","Air, Ground",Hawker,"Riparian, Urban",NA
+"Kingbird, Eastern",Tyrannus tyrannus,TYTY,EAKI,4440,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Riparian, Forest Edge",NA
+"Kingbird, Gray",Tyrannus dominicensis,TYDO,GRAK,4450,D,"Woody Lower Canopy, Shrub",Cup,"Insects, Fruit","Air, Foliage","Hawker, Foliage Gleaner",Shoreline,NA
+"Kingbird, Thick-billed",Tyrannus crassirostris,TYCR,TBKI,4451,C,Woody Upper Canopy,Cup,Insects,Air,Hawker,Riparian,NA
+"Kingbird, Tropical",Tyrannus melancholicus,TYME,TRKI,4460,C,Woody Lower Canopy,Cup,"Insects, Fruit","Air, Ground","Hawker, Hover & Pounce","Forest, Urban",NA
+"Kingbird, Western",Tyrannus verticalis,TYVE,WEKI,4470,A,"Woody Upper Canopy, Shrub",Cup,"Insects, Fruit","Air, Ground","Hawker, Hover & Pounce","Grassland, Riparian",NA
+"Kingfisher, Belted",Ceryle alcyon,CEAL,BEKI,3900,B,"Bank, Snag","Burrow, Cavity","Fish, Aquatic Inverts",Water,High Dives,"Shoreline, Freshwater",NA
+"Kingfisher, Green",Chloroceryle americana,CHAM,GKIN,3910,C,Bank,Burrow,Fish,Water,High Dives,"Freshwater, Swamp/Marsh",NA
+"Kingfisher, Ringed",Ceryle torquata,CETO,RIKI,3901,R,Bank,Burrow,Fish,Water,High Dives,Freshwater,NA
+"Kinglet, Golden-crowned",Regulus satrapa,RESA,GCKI,7480,R,Woody Upper Canopy,Pendant,"Insects, Fruit","Bark, Air","Foliage Gleaner, Hover Gleaner",Forest,NA
+"Kinglet, Ruby-crowned",Regulus calendula,RECA,RCKI,7490,B,Woody Upper Canopy,Pendant,"Insects, Tree Sap","Foliage, Air","Foliage Gleaner, Hover Gleaner",Forest,NA
+"Kiskadee, Great",Pitangus sulphuratus,PISU1,GKIS,4490,R,"Woody Lower Canopy, Shrub",Sphere,"Insects, Fish","Air, Water","Hawker, High Dives","Forest, Riparian",NA
+"Kite, American Swallow-tailed",Elanoides forficatus,ELFO,ASTK,3270,A,Woody Upper Canopy,Platform,"Insects, Small Verts","Air, Ground","Hawker, Swooper","Forest, Swamp/Marsh",NA
+"Kite, Black-shouldered",Elanus caeruleus,ELCA,BSKI,3280,R,Woody Upper Canopy,Platform,"Small Mammals, Insects",Ground,Hover & Pounce,"Grassland, Riparian",NA
+"Kite, Hook-billed",Chondrohierax uncinatus,CHUN,HBKI,3271,R,Woody Lower Canopy,Platform,"Aquatic Inverts, Insects","Ground, Bark","Swooper, Bark Gleaner","Swamp/Marsh, Forest",NA
+"Kite, Mississippi",Ictinia mississippiensis,ICMI,MIKI,3290,A,Woody Upper Canopy,Saucer,"Insects, Small Verts","Air, Ground","Hawker, High Patrol","Riparian, Forest Edge",NA
+"Kite, Snail",Rostrhamus sociabilis,ROSO,SNKI,3300,R,"Woody Lower Canopy, Shrub",Platform,Aquatic Inverts,Water,"Low Patrol, Swooper","Swamp/Marsh, Freshwater",NA
+"Kittiwake, Black-legged",Rissa tridactyla,RITR,BLKI,400,R,Cliff,Cup,"Fish, Aquatic Inverts",Water,"Surface Dips, High Dives","Pelagic, Coastal",NA
+"Kittiwake, Red-legged",Rissa brevirostris,RIBR,RLKI,410,R,Cliff,Cup,"Fish, Aquatic Inverts",Water,"High Dives, Hover & Pick","Pelagic, Coastal",NA
+"Knot, Red",Calidris canutus,CACA,REKN,2340,R,Ground,Scrape,"Insects, Seeds",Ground,"Ground Gleaner, Prober",Tundra,NA
+"Lark, Horned",Eremophila alpestris,ERAL,HOLA,4740,B,Ground,Saucer,"Seeds, Insects",Ground,Ground Gleaner,"Grassland, Cropland",NA
+Limpkin,Aramus guarauna,ARGU,LIMP,2070,R,"Ground, Shrub",Saucer,Aquatic Inverts,Water,"Prober, Ambusher",Swamp/Marsh,NA
+"Longspur, Chestnut-collared",Calcarius ornatus,CAOR,CCLO,5380,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,Grassland,NA
+"Longspur, Lapland",Calcarius lapponicus,CALA,LALO,5360,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Longspur, McCown’s",Calcarius mccownii,CAMC,MCLO,5390,B,Ground,Cup,"Seeds, Insects",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Longspur, Smith’s",Calcarius pictus,CAPI,SMLO,5370,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Tundra",NA
+"Loon, Arctic",Gavia arctica,GAAR,ARLO,90,R,Ground,Platform,"Fish, Insects","Water, Ground","Surface Dives, Ground Gleaner","Freshwater, Tundra",NA
+"Loon, Common",Gavia immer,GAIM,COLO,70,R,Ground,Platform,"Fish, Aquatic Inverts",Water,Surface Dives,Freshwater,NA
+"Loon, Pacific",Gavia pacifica,GAPA,PALO,100,R,Ground,Platform,"Fish, Insects",Water,Surface Dives,"Tundra, Pelagic",NA
+"Loon, Red-throated",Gavia stellata,GAST2,RTLO,110,R,Ground,"Saucer, Platform","Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Tundra",NA
+"Loon, Yellow-billed",Gavia adamsii,GAAD,YBLO,80,R,Ground,Saucer,"Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Tundra",NA
+"Magpie, Black-billed",Pica pica,PIPI,BBMA,4750,R,"Woody Upper Canopy, Shrub",Sphere,"Insects, Carrion",Ground,Ground Gleaner,"Shrubland, Riparian",NA
+"Magpie, Yellow-billed",Pica nuttalli,PINU,YBMA,4760,R,Woody Upper Canopy,Sphere,"Insects, Carrion","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Riparian",NA
+Mallard,Anas platyrhynchos,ANPL,MALL,1320,R,Ground,Scrape,"Seeds, Greens",Water,Dabbler,"Freshwater, Swamp/Marsh",NA
+"Martin, Purple",Progne subis,PRSU,PUMA,6110,A,"Snag, MMS",Cavity,Insects,Air,Aerial Foraging,"Grassland, Urban",NA
+"Meadowlark, Eastern",Sturnella magna,STMA2,EAME,5010,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Meadowlark, Western",Sturnella neglecta,STNE1,WEME,5011,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Merganser, Common",Mergus merganser,MEME2,COME,1290,R,"Woody Upper Canopy, Ground","Cavity, Crevice","Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Riparian",NA
+"Merganser, Hooded",Lophodytes cucullatus,LOCU1,HOME,1310,R,"Snag, Woody Lower Canopy",Cavity,"Fish, Aquatic Inverts",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Merganser, Red-breasted",Mergus serrator,MESE,RBME,1300,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,Surface Dives,Freshwater,NA
+Merlin,Falco columbarius,FACO,MERL,3570,A,"Woody Upper Canopy, Cliff","Platform, Cavity","Birds, Small Mammals",Air,"Aerial Pursuit, Hawker","Forest, Grassland",NA
+"Mockingbird, Northern",Mimus polyglottos,MIPO,NOMO,7030,B,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Urban",NA
+"Moorhen, Common",Gallinula chloropus,GACH,COMO,2190,R,"Floating, Ground","Platform, Cup","Greens, Aquatic Inverts","Water, Ground","Surface Dips, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Murre, Common",Uria aalge,URAA,COMU,300,R,Cliff,None,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Murre, Thick-billed",Uria lomvia,URLO,TBMU,310,R,Cliff,None,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Murrelet, Ancient",Synthliboramphus antiquus,SYAN,ANMU,210,R,Ground,"Burrow, Crevice","Aquatic Inverts, Fish",Water,Surface Dives,"Coastal, Pelagic",NA
+"Murrelet, Kittlitz’s",Brachyramphus brevirostris,BRBR,KIMU,240,R,Ground,None,Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Murrelet, Marbled",Brachyramphus marmoratus,BRMA,MAMU,230,R,"Ground, Woody Upper Canopy",Saucer,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Murrelet, Xantus’",Synthliboramphus hypoleucus,SYHY,XAMU,250,R,Ground,"Crevice, Burrow",Aquatic Inverts,Water,Surface Dives,"Coastal, Pelagic",NA
+"Myna, Crested",Acridotheres cristatellus,ACCR,CRMY,4931,R,"Woody Upper Canopy, MMS",Cavity,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Grassland, Urban",NA
+"Nighthawk, Antillean",Chordeiles gundlachii,CHGU,ANNI,4201,D,Ground,None,Insects,Air,Aerial Foraging,Grassland,NA
+"Nighthawk, Common",Chordeiles minor,CHMI,CONI,4200,A,Ground,None,Insects,Air,Aerial Foraging,"Grassland, Urban",NA
+"Nighthawk, Lesser",Chordeiles acutipennis,CHAC,LENI,4210,A,Ground,None,Insects,Air,Aerial Foraging,"Shrubland, Shrubland",NA
+"Nightjar, Buff-collared",Caprimulgus ridgwayi,CARI,BCNI,4161,C,Ground,None,Insects,Air,Aerial Foraging,"Shrubland, Forest",NA
+"Noddy, Brown",Anous stolidus,ANST2,BRNO,790,R,"Shrub, Woody Lower Canopy",Saucer,Fish,Water,Skimmer,"Pelagic, Shoreline",NA
+"Nutcracker, Clark’s",Nucifraga columbiana,NUCO,CLNU,4910,R,Woody Upper Canopy,Cup,"Nuts, Seeds","Foliage, Ground","Foliage Gleaner, Ground Gleaner",Forest,NA
+"Nuthatch, Brown-headed",Sitta pusilla,SIPU,BHNU,7290,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Seeds","Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Nuthatch, Pygmy",Sitta pygmaea,SIPY,PYNU,7300,R,"Woody Upper Canopy, Snag",Cavity,"Insects, Seeds","Bark, Air","Bark Gleaner, Hover Gleaner",Forest,NA
+"Nuthatch, Red-breasted",Sitta canadensis,SICA1,RBNU,7280,R,Woody Upper Canopy,Cavity,"Insects, Seeds","Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Nuthatch, White-breasted",Sitta carolinensis,SICA2,WBNU,7270,R,Woody Upper Canopy,Cavity,"Insects, Nuts",Bark,Bark Gleaner,"Forest, Forest Edge",NA
+Oldsquaw,Clangula hyemalis,CLHY,OLDS,1540,R,Ground,Scrape,"Aquatic Inverts, Fish",Water,Surface Dives,"Coastal, Tundra",NA
+"Oriole, Altamira",Icterus gularis,ICGU,ALOR,5031,R,Woody Upper Canopy,Pendant,"Insects, Fruit",Foliage,Foliage Gleaner,"Forest, Shrubland",NA
+"Oriole, Audubon’s",Icterus graduacauda,ICGR,AUOR,5030,R,Woody Lower Canopy,Pendant,"Insects, Fruit",Foliage,Foliage Gleaner,"Shrubland, Riparian",NA
+"Oriole, Hooded",Icterus cucullatus,ICCU,HOOR,5050,A,"Woody Upper Canopy, Shrub",Pendant,"Insects, Nectar",Foliage,Foliage Gleaner,"Riparian, Shrubland",NA
+"Oriole, Northern",Icterus galbula,ICGA,NOOR,5070,A,Woody Upper Canopy,Pendant,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Forest Edge, Urban",NA
+"Oriole, Orchard",Icterus spurius,ICSP,OROR,5060,A,"Woody Upper Canopy, Shrub",Pendant,"Insects, Fruit",Foliage,Foliage Gleaner,"Shrubland, Forest",NA
+"Oriole, Scott’s",Icterus parisorum,ICPA,SCOR,5040,A,"Woody Lower Canopy, Shrub",Pendant,"Insects, Fruit",Foliage,Foliage Gleaner,"Shrubland, Riparian",NA
+"Oriole, Spot-breasted",Icterus pectoralis,ICPE,SPOO,5032,R,Woody Upper Canopy,Pendant,"Fruit, Nectar",Foliage,Foliage Gleaner,"Forest, Shrubland",NA
+Osprey,Pandion haliaetus,PAHA,OSPR,3640,R,"Woody Upper Canopy, Cliff",Platform,"Fish, Small Mammals",Water,High Dives,Freshwater,NA
+Ovenbird,Seiurus aurocapillus,SEAU,OVEN,6740,A,"Ground, Woody Lower Canopy",Oven,Insects,Ground,Ground Gleaner,Forest,NA
+"Owl, Barred",Strix varia,STVA,BAOW,3680,R,"Snag, Woody Upper Canopy",Cavity,"Small Mammals, Birds",Ground,"Low Patrol, Hover & Pounce","Forest, Swamp/Marsh",NA
+"Owl, Boreal",Aegolius funereus,AEFU,BOOW,3710,R,"Snag, Woody Lower Canopy",Cavity,"Small Mammals, Birds",Ground,Swooper,"Forest, Swamp/Marsh",NA
+"Owl, Burrowing",Athene cunicularia,ATCU,BUOW,3780,A,Ground,Burrow,"Insects, Small Mammals",Ground,"Swooper, Hover & Pounce","Grassland, Urban",NA
+"Owl, Common Barn",Tyto alba,TYAL,COBO,3650,R,"Snag, MMS",Cavity,"Small Mammals, Birds",Ground,"Low Patrol, Swooper","Grassland, Urban",NA
+"Owl, Eastern Screech",Otus asio,OTAS,EASO,3730,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Small Verts",Ground,Swooper,"Forest, Riparian",NA
+"Owl, Elf",Micrathene whitneyi,MIWH,ELOW,3810,C,"Cactus, Woody Upper Canopy",Cavity,Insects,Ground,"Low Patrol, Hover & Pounce","Desert, Shrubland",NA
+"Owl, Ferruginous Pygmy",Glaucidium brasilianum,GLBR,FEPO,3800,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Small Verts",Ground,Swooper,"Desert, Shrubland",NA
+"Owl, Flammulated",Otus flammeolus,OTFL,FLOW,3740,A,Snag,Cavity,Insects,"Air, Bark","Hawker, Bark Gleaner",Forest,NA
+"Owl, Great Gray",Strix nebulosa,STNE,GGOW,3700,R,Woody Upper Canopy,Abandoned,"Small Mammals, Birds",Ground,"Hover & Pounce, Swooper","Forest, Swamp/Marsh",NA
+"Owl, Great Horned",Bubo virginianus,BUVI,GHOW,3750,R,"Woody Upper Canopy, Cliff",Abandoned,"Small Mammals, Birds",Ground,Swooper,"Forest, Swamp/Marsh",NA
+"Owl, Long-eared",Asio otus,ASOT,LEOW,3660,B,"Woody Upper Canopy, Ground",Abandoned,"Small Mammals, Birds",Ground,Low Patrol,"Forest, Urban",NA
+"Owl, Northern Hawk",Surnia ulula,SUUL,NOHO,3770,R,"Snag, Woody Upper Canopy","Cavity, Platform","Small Mammals, Birds",Ground,"Swooper, Hover & Pounce","Forest, Swamp/Marsh",NA
+"Owl, Northern Pygmy",Glaucidium gnoma,GLGN,NOPO,3790,R,"Snag, Woody Lower Canopy",Cavity,"Small Mammals, Insects",Ground,Swooper,Forest,NA
+"Owl, Northern Saw-whet",Aegolius acadicus,AEAC,NSWO,3720,R,"Snag, Woody Upper Canopy",Cavity,"Small Mammals, Birds",Ground,Swooper,"Forest, Swamp/Marsh",NA
+"Owl, Short-eared",Asio flammeus,ASFL,SEOW,3670,B,Ground,Scrape,"Small Mammals, Birds",Ground,"Low Patrol, Swooper","Grassland, Swamp/Marsh",NA
+"Owl, Snowy",Nyctea scandiaca,NYSC,SNOW,3760,R,Ground,Scrape,"Small Mammals, Birds",Ground,Swooper,"Tundra, Rocky Slope",NA
+"Owl, Spotted",Strix occidentalis,STOC1,SPOW,3690,R,"Woody Upper Canopy, Cliff","Cavity, Platform","Small Mammals, Birds",Ground,Swooper,Forest,NA
+"Owl, Western Screech",Otus kennicotti,OTKE,WESO,3732,R,"Snag, Woody Upper Canopy",Cavity,"Small Mammals, Insects",Ground,Swooper,"Riparian, Shrubland",NA
+"Owl, Whiskered Screech",Otus trichopsis,OTTR,WHSO,3731,R,Snag,Cavity,Insects,Ground,Swooper,Forest,NA
+"Oystercatcher, American",Haematopus palliatus,HAPA,AMOY,2860,R,Ground,Scrape,"Aquatic Inverts, Fish",Water,Prober,"Coastal, Pelagic",NA
+"Oystercatcher, Black",Haematopus bachmani,HABA,BLOY,2870,R,Ground,Scrape,"Aquatic Inverts, Fish",Water,Prober,"Coastal, Pelagic",NA
+"Partridge, Gray",Perdix perdix,PEPE,GRPA,2881,R,Ground,Scrape,"Seeds, Insects",Ground,Ground Gleaner,Grassland,NA
+"Parula, Northern",Parula americana,PAAM,NOPA,6480,A,Woody Upper Canopy,Pendant,Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner",Forest,NA
+"Parula, Tropical",Parula pitiayumi,PAPI,TRPA,6490,R,Woody Upper Canopy,Pendant,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Pauraque, Common",Nyctidromus albicollis,NYAL,COPA,4190,R,Ground,None,Insects,Air,"Aerial Foraging, Hawker","Forest, Forest Edge",NA
+"Pelican, American White",Pelecanus erythrorhynchos,PEER,AWPE,1250,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,Surface Dips,"Coastal, Pelagic",NA
+"Pelican, Brown",Pelecanus occidentalis,PEOC,BRPE,1260,R,"Woody Upper Canopy, Cliff",Saucer,Fish,Water,High Dives,"Coastal, Pelagic",NA
+"Petrel, Ashy Storm",Oceanodroma homochroa,OCHO,ASSP,1080,R,Ground,"Burrow, Crevice","Fish, Aquatic Inverts",Water,"Low Patrol, Surface Dips","Coastal, Pelagic",NA
+"Petrel, Black Storm",Oceanodroma melania,OCME,BLSP,1070,R,"Ground, Cliff",Crevice,"Aquatic Inverts, Carrion",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Petrel, British Storm",Hydrobates pelagicus,HYPE,BHSP,1040,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Petrel, Fork-tailed Storm",Oceanodroma furcata,OCFU,FTSP,1050,R,Cliff,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Petrel, Leach’s Storm",Oceanodroma leucorhoa,OCLE,LHSP,1060,R,"Ground, Bank",Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Petrel, Least Storm",Oceanodroma microsoma,OCMI,LTSP,1030,R,"Ground, Cliff","Burrow, Crevice","Greens, Aquatic Inverts",Water,Low Patrol,"Coastal, Pelagic",NA
+"Petrel, Wilson’s Storm",Oceanites oceanicus,OCOC,WISP,1090,R,"Ground, Cliff","Burrow, Crevice","Greens, Fish",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Pewee, Eastern Wood",Contopus virens,COVI1,EAWP,4610,A,Woody Upper Canopy,Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Forest, Forest Edge",NA
+"Pewee, Greater",Contopus pertinax,COPE,GRPE,4600,C,Woody Upper Canopy,Cup,Insects,Air,Hawker,Forest,NA
+"Pewee, Western Wood",Contopus sordidulus,COSO,WEWP,4620,A,Woody Upper Canopy,Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Forest, Forest Edge",NA
+Phainopepla,Phainopepla nitens,PHNI,PHAI,6200,A,"Woody Upper Canopy, Shrub",Cup,"Fruit, Insects","Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Riparian",NA
+"Phalarope, Red",Phalaropus fulicarius,PHFU,REPH,2220,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,"Surface Dips, Prober","Freshwater, Tundra",NA
+"Phalarope, Red-necked",Phalaropus lobatus,PHLO,RNPH,2230,R,Ground,Scrape,"Aquatic Inverts, Seeds",Water,"Surface Dips, Prober",Freshwater,NA
+"Phalarope, Wilson’s",Phalaropus tricolor,PHTR,WIPH,2240,R,Ground,Scrape,"Aquatic Inverts, Seeds",Water,"Surface Dips, Prober",Swamp/Marsh,NA
+"Pheasant, Ring-necked",Phasianus colchicus,PHCO,RNPS,3091,R,Ground,Scrape,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Phoebe, Black",Sayornis nigricans,SANI,BLPH,4580,R,"Cliff, MMS",Cup,"Insects, Fish",Air,"Hawker, Hover Gleaner","Riparian, Urban",NA
+"Phoebe, Eastern",Sayornis phoebe,SAPH,EAPH,4560,B,"MMS, Cliff",Cup,"Insects, Fish",Air,Hawker,"Riparian, Urban",NA
+"Phoebe, Say’s",Sayornis saya,SASA,SAPH,4570,B,"Cliff, MMS",Cup,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Grassland, Forest",NA
+"Pigeon, Band-tailed",Columba fasciata,COFA,BTPI,3120,A,Woody Upper Canopy,Platform,"Nuts, Fruit","Foliage, Ground","Foliage Gleaner, Ground Gleaner",Forest,NA
+"Pigeon, Red-billed",Columba flavirostris,COFL1,RBPI,3130,R,Woody Upper Canopy,Platform,"Seeds, Nuts","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest, Riparian",NA
+"Pigeon, White-crowned",Columba leucocephala,COLE,WCPI,3140,D,Woody Lower Canopy,Platform,Fruit,Foliage,Foliage Gleaner,Swamp/Marsh,NA
+"Pintail, Northern",Anas acuta,ANAC,NOPI,1430,R,Ground,Scrape,"Seeds, Greens","Water, Ground","Dabbler, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Pipit, Red-throated",Anthus cervinus,ANCE,RTPI,6990,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Tundra, Rocky Slope",NA
+"Pipit, Sprague’s",Anthus spragueii,ANSP1,SPPI,7000,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,Grassland,NA
+"Pipit, Water",Anthus spinoletta,ANSP,WAPI,6970,B,Ground,Cup,"Insects, Aquatic Inverts","Ground, Air","Ground Gleaner, Hawker","Shoreline, Tundra",NA
+"Plover, Black-bellied",Pluvialis squatarola,PLSQ,BBPL,2700,R,Ground,Scrape,Insects,"Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Plover, Common Ringed",Charadrius hiaticula,CHHI,CRPL,2750,R,Ground,Scrape,Insects,"Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Plover, Lesser Golden",Pluvialis dominica,PLDO1,LEGP,2720,R,Ground,Scrape,Insects,"Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Plover, Mongolian",Charadrius mongolus,CHMO,MOPL,2790,R,Ground,Scrape,Insects,Ground,Ground Gleaner,"Coastal, Tundra",NA
+"Plover, Mountain",Charadrius montanus,CHMO1,MOUP,2810,A,Ground,Scrape,Insects,"Ground, Water",Ground Gleaner,Grassland,NA
+"Plover, Piping",Charadrius melodus,CHME,PIPL,2770,R,Ground,Scrape,"Aquatic Inverts, Insects","Ground, Water","Ground Gleaner, Prober","Coastal, Freshwater",NA
+"Plover, Semipalmated",Charadrius semipalmatus,CHSE,SEPL,2740,R,Ground,Scrape,"Aquatic Inverts, Insects","Ground, Water",Ground Gleaner,"Coastal, Tundra",NA
+"Plover, Snowy",Charadrius alexandrinus,CHAL,SNPL,2780,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober","Coastal, Freshwater",NA
+"Plover, Wilson’s",Charadrius wilsonia,CHWI,WIPL,2800,R,Ground,Scrape,"Aquatic Inverts, Insects",Water,Prober,Coastal,NA
+"Poor-will, Common",Phalaenoptilus nuttallii,PHNU,COPW,4180,B,Ground,Scrape,Insects,Air,"Aerial Foraging, Hover Gleaner",Shrubland,NA
+"Prairie-chicken, Greater",Tympanuchus cupido,TYCU,GRPC,3050,R,Ground,Scrape,"Seeds, Insects",Ground,Ground Gleaner,Grassland,NA
+"Prairie-chicken, Lesser",Tympanuchus pallidicinctus,TYPA,LEPC,3070,R,Ground,Scrape,"Insects, Nuts",Ground,Ground Gleaner,Grassland,NA
+"Ptarmigan, Rock",Lagopus mutus,LAMU,ROPT,3020,R,Ground,Scrape,"Greens, Fruit",Ground,Ground Gleaner,"Rocky Slope, Tundra",NA
+"Ptarmigan, White-tailed",Lagopus leucurus,LALE,WTPT,3040,R,Ground,Scrape,"Greens, Insects",Ground,Ground Gleaner,Tundra,NA
+"Ptarmigan, Willow",Lagopus lagopus,LALA,WIPT,3010,R,Ground,Scrape,"Greens, Seeds","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Shrubland, Tundra",NA
+"Puffin, Atlantic",Fratercula arctica,FRAR,ATPU,130,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Puffin, Horned",Fratercula corniculata,FRCO,HOPU,140,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+"Puffin, Tufted",Fratercula cirrhata,FRCI,TUPU,120,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+Pyrrhuloxia,Cardinalis sinuatus,CASI,PYRR,5940,R,"Shrub, Woody Lower Canopy",Cup,"Seeds, Insects",Ground,Ground Gleaner,Shrubland,NA
+"Quail, California",Callipepla californica,CACA1,CAQU,2940,R,Ground,Scrape,"Seeds, Nuts",Ground,Ground Gleaner,"Shrubland, Cropland",NA
+"Quail, Gambel’s",Callipepla gambelii,CAGA1,GAQU,2950,R,Ground,Scrape,"Seeds, Greens",Ground,"Ground Gleaner, Foliage Browser","Shrubland, Riparian",NA
+"Quail, Montezuma",Cyrtonyx montezumae,CYMO1,MZQU,2960,R,Ground,Scrape,"Greens, Insects",Ground,"Digging, Ground Gleaner",Forest,NA
+"Quail, Mountain",Oreortyx pictus,ORPI,MNQU,2920,R,Ground,Scrape,"Seeds, Insects",Ground,Ground Gleaner,"Forest, Shrubland",NA
+"Quail, Scaled",Callipepla squamata,CASQ,SCQU,2930,R,Ground,Scrape,"Seeds, Greens",Ground,"Ground Gleaner, Foliage Browser","Shrubland, Grassland",NA
+"Rail, Black",Laterallus jamaicensis,LAJA,BLRA,2160,R,Ground,Cup,"Insects, Seeds","Water, Ground","Prober, Ground Gleaner",Swamp/Marsh,NA
+"Rail, Clapper",Rallus longirostris,RALO,CLRA,2110,R,Ground,Platform,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner",Swamp/Marsh,NA
+"Rail, King",Rallus elegans,RAEL,KIRA,2080,R,Ground,Platform,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner",Swamp/Marsh,NA
+"Rail, Virginia",Rallus limicola,RALI,VIRA,2120,R,Ground,Saucer,"Insects, Aquatic Inverts","Water, Ground","Prober, Ground Gleaner",Swamp/Marsh,NA
+"Rail, Yellow",Coturnicops noveboracensis,CONO,YERA,2150,R,Ground,Saucer,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Raven, Chihuahuan",Corvus cryptoleucus,COCR1,CHRA,4870,R,"Woody Upper Canopy, Shrub",Cup,"Insects, Carrion",Ground,"Scavenger, Ground Gleaner","Grassland, Shrubland",NA
+"Raven, Common",Corvus corax,COCO2,CORA,4860,R,"Cliff, Woody Upper Canopy",Cup,"Carrion, Small Verts",Ground,"Scavenger, Ground Gleaner","Forest, Grassland",NA
+Razorbill,Alca torda,ALTO,RAZO,320,R,Cliff,Crevice,"Fish, Aquatic Inverts",Water,Surface Dives,"Coastal, Pelagic",NA
+Redhead,Aythya americana,AYAM,REDH,1460,R,Floating,Cup,"Greens, Aquatic Inverts",Water,Surface Dives,"Swamp/Marsh, Freshwater",NA
+"Redpoll, Common",Carduelis flammea,CAFL,CORE,5280,R,"Shrub, Ground","Cup, Crevice","Seeds, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest, Tundra",NA
+"Redpoll, Hoary",Carduelis hornemanni,CAHO,HORE,5270,R,"Shrub, Ground","Cup, Crevice","Seeds, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Shrubland, Tundra",NA
+"Redstart, American",Setophaga ruticilla,SERU1,AMRE,6870,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Seeds","Air, Foliage","Hover Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Redstart, Painted",Myioborus pictus,MYPI,PARE,6880,C,"Ground, Bank",Cup,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Riparian",NA
+"Roadrunner, Greater",Geococcyx californianus,GECA1,GRRO,3850,R,"Woody Lower Canopy, Shrub",Platform,"Insects, Small Mammals",Ground,Ground Gleaner,"Shrubland, Desert",NA
+"Robin, American",Turdus migratorius,TUMI,AMRO,7610,B,Woody Lower Canopy,Cup,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Urban",NA
+Sanderling,Calidris alba,CAAL,SAND,2480,R,Ground,Scrape,"Insects, Greens","Water, Ground","Prober, Ground Gleaner","Coastal, Tundra",NA
+"Sandpiper, Bairds",Calidris bairdii,CABA,BASA,2410,R,Ground,Scrape,Insects,Ground,Ground Gleaner,"Shoreline, Tundra",NA
+"Sandpiper, Buff-breasted",Tryngites subruficollis,TRSU,BBSA,2620,R,Ground,Scrape,"Insects, Seeds",Ground,Ground Gleaner,"Shoreline, Tundra",NA
+"Sandpiper, Curlew",Calidris ferruginea,CAFE,CUSA,2440,R,Ground,"Burrow, Scrape","Insects, Aquatic Inverts",Water,Prober,Coastal,NA
+"Sandpiper, Least",Calidris minutilla,CAMI1,LESA,2420,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober","Coastal, Swamp/Marsh",NA
+"Sandpiper, Pectoral",Calidris melanotos,CAME1,PESA,2390,R,Ground,Scrape,Insects,"Water, Ground","Prober, Ground Gleaner","Coastal, Tundra",NA
+"Sandpiper, Purple",Calidris maritima,CAMA,PUSA,2350,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Sandpiper, Rock",Calidris ptilocnemis,CAPT,ROSA,2360,R,Ground,Scrape,"Insects, Aquatic Inverts",Water,Prober,Coastal,NA
+"Sandpiper, Semipalmated",Calidris pusilla,CAPU,SESA,2460,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober","Tundra, Coastal",NA
+"Sandpiper, Solitary",Tringa solitaria,TRSO,SOSA,2560,R,Woody Upper Canopy,Cup,"Insects, Aquatic Inverts","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Sandpiper, Spotted",Actitis macularia,ACMA,SPSA,2630,R,Ground,Scrape,"Insects, Aquatic Inverts",Ground,Ground Gleaner,Shoreline,NA
+"Sandpiper, Stilt",Calidris himantopus,CAHI,STSA,2330,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Prober,"Tundra, Swamp/Marsh",NA
+"Sandpiper, Upland",Bartramia longicauda,BALO,UPSA,2610,A,Ground,Scrape,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Forest",NA
+"Sandpiper, Western",Calidris mauri,CAMA1,WESA,2470,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober",Coastal,NA
+"Sandpiper, White-rumped",Calidris fuscicollis,CAFU,WRSA,2400,R,Ground,Scrape,"Insects, Seeds","Ground, Water","Ground Gleaner, Prober","Tundra, Coastal",NA
+"Sandpiper, Wood",Tringa glareola,TRGL,WOSA,2571,R,"Ground, Woody Lower Canopy",Saucer,Insects,"Water, Ground","Prober, Ground Gleaner","Coastal, Tundra",NA
+"Sapsucker, Red-breasted",Sphyrapicus ruber,SPRU,RBSA,4030,B,"Woody Upper Canopy, Snag",Cavity,"Insects, Tree Sap","Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Sapsucker, Red-naped",Sphyrapicus nuehalis,SPNU,RNSA,4021,B,Woody Lower Canopy,Cavity,"Insects, Tree Sap","Bark, Air","Bark Gleaner, Hawker","Forest, Riparian",NA
+"Sapsucker, Williamson’s",Sphyrapicus thyroideus,SPTH,WISA,4040,B,Woody Upper Canopy,Cavity,"Insects, Tree Sap","Bark, Ground","Bark Gleaner, Ground Gleaner",Forest,NA
+"Sapsucker, Yellow-bellied",Sphyrapicus varius,SPVA1,YBSA,4020,B,Woody Upper Canopy,Cavity,"Insects, Tree Sap","Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Scaup, Greater",Aythya marila,AYMA,GRSC,1480,R,"Ground, Floating",Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Scaup, Lesser",Aythya affinis,AYAF,LESC,1490,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Scoter, Black",Melanitta nigra,MENI,BLSC,1630,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Scoter, Surf",Melanitta perspicillata,MEPE,SUSC,1660,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,"Freshwater, Swamp/Marsh",NA
+"Scoter, White-winged",Melanitta fusca,MEFU,WWSC,1650,R,Ground,Scrape,"Aquatic Inverts, Greens",Water,Surface Dives,Freshwater,NA
+"Shearwater, Audubon’s",Puffinus lherminieri,PULH,AUSH,920,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Black-vented",Puffinus opisthomelas,PUOP,BVSH,930,R,"Ground, Cliff",Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Buller’s",Puffinus bulleri,PUBU,BUSH,962,R,Ground,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Cory’s",Calonectris diomedea,CADI,COSH,880,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Greater",Puffinus gravis,PUGR,GRSH,890,R,Ground,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Manx",Puffinus puffinus,PUPU,MASH,900,R,Cliff,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Pink-footed",Puffinus creatopus,PUCR,PFSH,910,R,Ground,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shearwater, Short-tailed",Puffinus tenuirostris,PUTE,SHOS,960,R,Ground,Burrow,Fish,Water,"Scavenger, Low Dives","Coastal, Pelagic",NA
+"Shearwater, Sooty",Puffinus griseus,PUGR1,SOSH,950,R,Ground,Burrow,"Fish, Aquatic Inverts",Water,"Scavenger, Low Patrol","Coastal, Pelagic",NA
+"Shoveler, Northern",Anas clypeata,ANCL,NSHO,1420,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,Surface Dips,Swamp/Marsh,NA
+"Shrike, Loggerhead",Lanius ludovicianus,LALU,LOSH,6220,B,"Woody Lower Canopy, Shrub",Cup,"Insects, Small Verts","Ground, Air","Swooper, Aerial Pursuit","Shrubland, Forest",NA
+"Shrike, Northern",Lanius excubitor,LAEX,NSHR,6210,R,Woody Lower Canopy,Cup,"Birds, Small Mammals","Ground, Air","Swooper, Aerial Pursuit","Forest, Shrubland",NA
+"Siskin, Pine",Carduelis pinus,CAPI1,PISI,5330,B,Woody Upper Canopy,Saucer,"Seeds, Insects","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest, Urban",NA
+"Skimmer, Black",Rynchops niger,RYNI,BLSK,800,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,Skimmer,"Coastal, Pelagic",NA
+"Skua, Great",Catharacta skua,CASK,GRSK,350,R,"Ground, Cliff",Scrape,"Fish, Birds","Water, Air","Scavenger, Piracy","Coastal, Pelagic",NA
+"Skua, South Polar",Catharacta maccormicki,CAMA3,SPSK,352,R,"Ground, Cliff",Scrape,"Fish, Birds","Water, Air","Scavenger, Piracy","Coastal, Pelagic",NA
+"Skylark, Eurasian",Alauda arvensis,ALAR,EUSK,4730,R,Ground,Saucer,"Seeds, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Grassland,NA
+"Snipe, Common",Gallinago gallinago,GAGA,COSN,2300,R,Ground,Scrape,Insects,Water,Prober,Swamp/Marsh,NA
+"Solitaire, Townsend’s",Myadestes townsendi,MYTO,TOSO,7540,B,"Ground, Snag","Cup, Cavity","Insects, Fruit","Air, Foliage","Hawker, Foliage Gleaner",Forest,NA
+Sora,Porzana carolina,POCA1,SORA,2140,R,"Floating, Ground",Saucer,"Seeds, Insects","Ground, Water","Ground Gleaner, Prober",Swamp/Marsh,NA
+"Sparrow, American Tree",Spizella arborea,SPAR2,ATSP,5590,R,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Grassland, Shrubland",NA
+"Sparrow, Bachman’s",Aimophila aestivalis,AIAE,BACS,5750,R,Ground,Cup,"Seeds, Insects",Ground,Ground Gleaner,"Forest, Shrubland",NA
+"Sparrow, Baird’s",Ammodramus bairdii,AMBA,BAIS,5450,A,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,Grassland,NA
+"Sparrow, Black-chinned",Spizella atrogularis,SPAT,BCSP,5650,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+"Sparrow, Black-throated",Amphispiza bilineata,AMBI,BTSP,5730,B,"Shrub, Cactus",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+"Sparrow, Botteri’s",Aimophila botterii,AIBO,BOSP,5760,C,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Sparrow, Brewer’s",Spizella breweri,SPBR1,BRSP,5620,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds",Ground,Ground Gleaner,Shrubland,NA
+"Sparrow, Cassin’s",Aimophila cassinii,AICA1,CASP,5780,B,"Ground, Shrub",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Sparrow, Chipping",Spizella passerina,SPPA2,CHSP,5600,A,Woody Lower Canopy,Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Sparrow, Clay-colored",Spizella pallida,SPPA1,CCSP,5610,A,"Shrub, Ground",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Shrubland, Forest Edge",NA
+"Sparrow, Eurasian Tree",Passer montanus,PAMO1,ETSP,6883,R,Woody Upper Canopy,Cavity,"Seeds, Insects",Ground,Ground Gleaner,"Forest, Urban",NA
+"Sparrow, Field",Spizella pusilla,SPPU1,FISP,5630,R,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Forest Edge",NA
+"Sparrow, Five-striped",Amphispiza quinquestriata,AMQU,FSSP,5742,R,"Shrub, Ground",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Grassland",NA
+"Sparrow, Fox",Passerella iliaca,PAIL,FOSP,5850,B,"Ground, Shrub",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Forest, Forest Edge",NA
+"Sparrow, Golden-crowned",Zonotrichia atricapilla,ZOAT,GCSP,5570,R,"Ground, Woody Lower Canopy",Cup,"Insects, Seeds",Ground,Ground Gleaner,Shrubland,NA
+"Sparrow, Grasshopper",Ammodramus savannarum,AMSA,GRSP,5460,A,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Cropland",NA
+"Sparrow, Harris’",Zonotrichia querula,ZOQU,HASP,5530,R,Ground,Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Forest",NA
+"Sparrow, Henslow’s",Ammodramus henslowii,AMHE,HESP,5470,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Sparrow, House",Passer domesticus,PADO1,HOSP,6882,R,"MMS, Woody Upper Canopy","Cavity, Sphere","Seeds, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Urban, Cropland",NA
+"Sparrow, Lark",Chondestes grammacus,CHGR,LASP,5520,A,"Ground, Shrub",Cup,"Seeds, Insects",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Sparrow, Le Conte’s",Ammodramus leconteii,AMLE,LCSP,5480,R,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,Swamp/Marsh,NA
+"Sparrow, Lincoln’s",Melospiza lincolnii,MELI,LISP,5830,A,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Swamp/Marsh, Riparian",NA
+"Sparrow, Olive",Arremonops rufivirgatus,ARRU,OLSP,5860,R,"Shrub, Cactus",Sphere,"Insects, Seeds",Ground,Ground Gleaner,"Shrubland, Riparian",NA
+"Sparrow, Rufous-crowned",Aimophila ruficeps,AIRU,RCSP,5800,R,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Grassland",NA
+"Sparrow, Rufous-winged",Aimophila carpalis,AICA,RWSP,5790,R,"Shrub, Cactus",Cup,"Insects, Seeds","Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Grassland",NA
+"Sparrow, Sage",Amphispiza belli,AMBE1,SAGS,5740,B,"Shrub, Ground",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+"Sparrow, Savannah",Passerculus sandwichensis,PASA,SAVS,5420,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Swamp/Marsh",NA
+"Sparrow, Seaside",Ammodramus maritimus,AMMA3,SESP,5500,R,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Swamp/Marsh,NA
+"Sparrow, Sharp-tailed",Ammodramus caudacutus,AMCA1,STSP,5490,R,"Ground, Shrub",Cup,"Insects, Seeds",Ground,Ground Gleaner,Swamp/Marsh,NA
+"Sparrow, Song",Melospiza melodia,MEME,SOSP,5810,B,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Riparian, Forest Edge",NA
+"Sparrow, Swamp",Melospiza georgiana,MEGE,SWSP,5840,B,"Shrub, Ground",Cup,"Insects, Seeds",Ground,Ground Gleaner,Swamp/Marsh,NA
+"Sparrow, Vesper",Pooecetes gramineus,POGR1,VESP,5400,B,Ground,Cup,"Insects, Seeds",Ground,Ground Gleaner,"Grassland, Shrubland",NA
+"Sparrow, White-crowned",Zonotrichia leucophrys,ZOLE,WCSP,5540,B,"Shrub, Ground",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Urban",NA
+"Sparrow, White-throated",Zonotrichia albicollis,ZOAL,WTSP,5580,B,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Spoonbill, Roseate",Ajaia ajaja,AJAJ,ROSP,1830,R,"Woody Lower Canopy, Shrub",Platform,"Fish, Aquatic Inverts",Water,Prober,"Swamp/Marsh, Freshwater",NA
+"Starling, European",Sturnus vulgaris,STVU,EUST,4930,R,"Woody Upper Canopy, MMS",Cavity,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Grassland, Urban",NA
+"Stilt, Black-necked",Himantopus mexicanus,HIME,BNST,2260,R,Ground,Scrape,"Aquatic Inverts, Insects","Water, Ground","Prober, Ground Gleaner","Swamp/Marsh, Freshwater",NA
+"Stork, Wood",Mycteria americana,MYAM,WOST,1880,R,Woody Upper Canopy,Platform,"Fish, Aquatic Inverts",Water,Prober,"Swamp/Marsh, Riparian",NA
+Surfbird,Aphriza virgata,APVI,SURF,2820,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober",Coastal,NA
+"Swallow, Bank",Riparia riparia,RIRI,BANS,6160,A,Bank,Burrow,Insects,Air,Aerial Foraging,"Freshwater, Grassland",NA
+"Swallow, Barn",Hirundo rustica,HIRU,BARS,6130,A,MMS,Cup,"Insects, Fruit",Air,Aerial Foraging,"Freshwater, Grassland",NA
+"Swallow, Cave",Hirundo fulva,HIFU,CASW,6121,C,"Cave, MMS",Cup,Insects,Air,Aerial Foraging,"Freshwater, Grassland",NA
+"Swallow, Cliff",Hirundo pyrrhonota,HIPY,CLSW,6120,A,"MMS, Cliff",Cup,"Insects, Fruit",Air,Aerial Foraging,"Freshwater, Grassland",NA
+"Swallow, Northern Rough-winged",Stelgidopteryx serripennis,STSE,NRWS,6170,A,"Bank, Cliff","Burrow, Crevice",Insects,Air,Aerial Foraging,"Freshwater, Grassland",NA
+"Swallow, Tree",Tachycineta bicolor,TABI,TRES,6140,B,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Air, Foliage","Aerial Foraging, Foliage Gleaner","Freshwater, Grassland",NA
+"Swallow, Violet-green",Tachycineta thalassina,TATH,VGSW,6150,A,"Snag, Woody Upper Canopy",Cavity,Insects,Air,Aerial Foraging,Forest,NA
+"Swan, Mute",Cygnus olor,CYOL,MUSW,1782,R,Ground,Platform,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Freshwater, Swamp/Marsh",NA
+"Swan, Trumpeter",Cygnus buccinator,CYBU,TRUS,1810,R,Ground,Platform,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Freshwater, Swamp/Marsh",NA
+"Swan, Whistling",Cygnus columbianus,CYCO1,WHSW,1800,R,Ground,Platform,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Freshwater, Tundra",NA
+"Swan, Whooper",Cygnus cygnus,CYCY,WHOS,1790,R,Ground,Platform,"Greens, Aquatic Inverts",Water,"Surface Dips, Dabbler","Coastal, Tundra",NA
+"Swift, Black",Cypseloides niger,CYNI,BLSW,4220,A,Cliff,Saucer,Insects,Air,Aerial Foraging,"Rocky Slope, Shoreline",NA
+"Swift, Chimney",Chaetura pelagica,CHPE,CHSW,4230,A,"MMS, Woody Upper Canopy",Saucer,Insects,Air,Aerial Foraging,"Forest, Urban",NA
+"Swift, Vaux’s",Chaetura vauxi,CHVA,VASW,4240,A,"Snag, MMS",Saucer,Insects,Air,Aerial Foraging,Forest,NA
+"Swift, White-throated",Aeronautes saxatalis,AESA,WTSW,4250,A,Cliff,Crevice,Insects,Air,Aerial Foraging,"Rocky Slope, Shoreline",NA
+"Tanager, Hepatic",Piranga flava,PIFL,HETA,6090,A,Woody Upper Canopy,Saucer,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Forest, Riparian",NA
+"Tanager, Scarlet",Piranga olivacea,PIOL,SCTA,6080,A,Woody Upper Canopy,Saucer,"Insects, Fruit","Air, Foliage","Hover Gleaner, Foliage Gleaner",Forest,NA
+"Tanager, Summer",Piranga rubra,PIRU,SUTA,6100,A,Woody Upper Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Forest, Riparian",NA
+"Tanager, Western",Piranga ludoviciana,PILU,WETA,6070,A,Woody Upper Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Tattler, Wandering",Heteroscelus incanus,HEIN,WATA,2590,R,Ground,Scrape,"Insects, Aquatic Inverts",Water,Prober,"Freshwater, Riparian",NA
+"Teal, Blue-winged",Anas discors,ANDI,BWTE,1400,R,Ground,Scrape,"Seeds, Greens",Water,"Surface Dips, Dabbler","Freshwater, Swamp/Marsh",NA
+"Teal, Cinnamon",Anas cyanoptera,ANCY,CITE,1410,R,Ground,Scrape,"Seeds, Insects",Water,"Surface Dips, Dabbler","Swamp/Marsh, Freshwater",NA
+"Teal, Green-winged",Anas crecca,ANCR,AGWT,1390,R,Ground,Scrape,"Seeds, Aquatic Inverts","Ground, Water","Ground Gleaner, Dabbler","Swamp/Marsh, Freshwater",NA
+"Tern, Aleutian",Sterna aleutica,STAL1,ALTE,730,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,High Dives,"Coastal, Pelagic",NA
+"Tern, Arctic",Sterna paradisaea,STPA1,ARTE,710,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,High Dives,"Tundra, Coastal",NA
+"Tern, Black",Chlidonias niger,CHNI,BLTE,770,R,"Floating, Ground","Platform, Scrape","Insects, Aquatic Inverts","Air, Water","Hawker, Skimmer",Swamp/Marsh,NA
+"Tern, Caspian",Sterna caspia,STCA1,CATE,640,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,High Dives,"Coastal, Freshwater",NA
+"Tern, Common",Sterna hirundo,STHI,COTE,700,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,High Dives,"Coastal, Tundra",NA
+"Tern, Elegant",Sterna elegans,STEL,ELTE,660,R,Ground,Scrape,Fish,Water,"Scavenger, High Dives","Coastal, Pelagic",NA
+"Tern, Forster’s",Sterna forsteri,STFO,FOTE,690,R,"Floating, Ground","Platform, Saucer","Fish, Insects","Water, Air","High Dives, Aerial Foraging",Swamp/Marsh,NA
+"Tern, Gull-billed",Sterna nilotica,STNI,GBTE,630,R,"Ground, Floating",Scrape,"Insects, Aquatic Inverts","Air, Ground","Hawker, Hover & Pounce","Shoreline, Pelagic",NA
+"Tern, Least",Sterna antillarum,STAN1,LETE,740,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,"High Dives, Skimmer","Coastal, Freshwater",NA
+"Tern, Roseate",Sterna dougallii,STDO,ROST,720,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,High Dives,"Coastal, Freshwater",NA
+"Tern, Royal",Sterna maxima,STMA1,ROYT,650,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,"High Dives, Skimmer",Coastal,NA
+"Tern, Sandwich",Sterna sandvicensis,STSA,SATE,670,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,"High Dives, Skimmer",Coastal,NA
+"Tern, Sooty",Sterna fuscata,STFU,SOTE,750,R,Ground,Scrape,"Fish, Aquatic Inverts",Water,Hover & Pick,"Coastal, Freshwater",NA
+"Thrasher, Bendire’s",Toxostoma bendirei,TOBE,BETH,7080,B,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+"Thrasher, Brown",Toxostoma rufum,TORU,BRTH,7050,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Small Verts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Forest Edge",NA
+"Thrasher, California",Toxostoma redivivum,TORE,CATH,7100,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Digging, Foliage Gleaner","Shrubland, Riparian",NA
+"Thrasher, Crissal",Toxostoma dorsale,TODO,CRTH,7120,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Ground,Digging,"Shrubland, Riparian",NA
+"Thrasher, Curve-billed",Toxostoma curvirostre,TOCU,CBTH,7070,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Shrubland,NA
+"Thrasher, Le Conte’s",Toxostoma lecontei,TOLE,LCTH,7110,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Small Verts","Ground, Foliage","Digging, Foliage Gleaner",Shrubland,NA
+"Thrasher, Long-billed",Toxostoma longirostre,TOLO,LBTH,7060,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Small Verts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Shrubland, Riparian",NA
+"Thrasher, Sage",Oreoscoptes montanus,ORMO,SATH,7020,B,"Shrub, Ground",Cup,"Insects, Fruit",Ground,Ground Gleaner,Shrubland,NA
+"Thrush, Gray-cheeked",Catharus minimus,CAMI2,GCTH,7570,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Ground,Ground Gleaner,"Forest Edge, Riparian",NA
+"Thrush, Hermit",Catharus guttatus,CAGU,HETH,7590,B,"Ground, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Forest Edge",NA
+"Thrush, Swainson’s",Catharus ustulatus,CAUS,SWTH,7580,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Forest, Forest Edge",NA
+"Thrush, Varied",Ixoreus naevius,IXNA,VATH,7630,R,Woody Lower Canopy,Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Thrush, Wood",Hylocichla mustelina,HYMU,WOTH,7550,A,Woody Upper Canopy,Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Riparian",NA
+"Tit, Siberian",Parus cinctus,PACI,SITI,7390,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Riparian",NA
+"Titmouse, Bridled",Parus wollweberi,PAWO,BRTI,7340,R,"Woody Lower Canopy, Snag",Cavity,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Shrubland",NA
+"Titmouse, Plain",Parus inornatus,PAIN,PLTI,7330,R,"Woody Lower Canopy, Snag",Cavity,"Insects, Fruit","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Titmouse, Tufted",Parus bicolor,PABI,TUTI,7310,R,"Woody Upper Canopy, Snag",Cavity,"Insects, Seeds","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Shrubland",NA
+"Towhee, Abert’s",Pipilo aberti,PIAB,ABTO,5920,R,"Shrub, Woody Lower Canopy",Cup,"Seeds, Insects",Ground,Ground Gleaner,"Shrubland, Riparian",NA
+"Towhee, Brown",Pipilo fuscus,PIFU,BRTO,5910,R,"Shrub, Woody Lower Canopy",Cup,"Seeds, Insects",Ground,Ground Gleaner,"Shrubland, Riparian",NA
+"Towhee, Green-tailed",Pipilo chlorurus,PICH,GTTO,5900,A,"Shrub, Ground",Cup,"Insects, Seeds",Ground,Ground Gleaner,"Shrubland, Riparian",NA
+"Towhee, Rufous-sided",Pipilo erythrophthalmus,PIER,RSTO,5870,B,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest Edge, Shrubland",NA
+"Trogon, Elegant",Trogon elegans,TREL,ELTR,3890,C,"Snag, Bank",Cavity,"Insects, Fruit",Air,"Hawker, Hover Gleaner","Forest, Shrubland",NA
+"Tropicbird, Red-billed",Phaethon aethereus,PHAE,RBTR,1130,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,High Dives,"Coastal, Pelagic",NA
+"Tropicbird, White-tailed",Phaethon lepturus,PHLE,WTTR,1120,R,"Ground, Cliff","Burrow, Crevice","Fish, Aquatic Inverts",Water,High Dives,"Coastal, Pelagic",NA
+"Turkey, Wild",Meleagris gallopavo,MEGA,WITU,3100,R,Ground,Scrape,"Seeds, Insects",Ground,Ground Gleaner,"Forest, Riparian",NA
+"Turnstone, Black",Arenaria melanocephala,ARME,BLTU,2840,R,Ground,Scrape,"Aquatic Inverts, Fruit",Ground,Ground Gleaner,"Shoreline, Tundra",NA
+"Turnstone, Ruddy",Arenaria interpres,ARIN,RUTU,2830,R,Ground,Scrape,"Insects, Aquatic Inverts","Ground, Water","Ground Gleaner, Prober","Coastal, Tundra",NA
+"Tyranulet, Northern Beardless",Camptostoma imberbe,CAIM,NBTY,4720,C,Woody Upper Canopy,Sphere,"Insects, Fruit",Air,Hawker,"Riparian, Forest",NA
+Veery,Catharus fuscescens,CAFU2,VEER,7560,A,"Ground, Shrub",Cup,"Insects, Fruit",Ground,"Ground Gleaner, Swooper",Forest,NA
+Verdin,Auriparus flaviceps,AUFL,VERD,7460,R,"Shrub, Cactus",Sphere,"Insects, Fruit","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Shrubland,NA
+"Vireo, Bell’s",Vireo bellii,VIBE,BEVI,6330,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Riparian, Shrubland",NA
+"Vireo, Black-capped",Vireo atricapillus,VIAT,BCVI,6300,A,Woody Lower Canopy,Cup,"Insects, Seeds",Foliage,Foliage Gleaner,"Forest, Shrubland",NA
+"Vireo, Black-whiskered",Vireo altiloquus,VIAL,BWVI,6230,D,Woody Lower Canopy,Cup,"Insects, Fruit",Foliage,Foliage Gleaner,Swamp/Marsh,NA
+"Vireo, Gray",Vireo vicinior,VIVI,GRVI,6340,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Foliage, Ground","Foliage Gleaner, Ground Gleaner","Shrubland, Forest",NA
+"Vireo, Hutton’s",Vireo huttoni,VIHU,HUVI,6320,R,Woody Lower Canopy,Cup,"Insects, Fruit",Foliage,Foliage Gleaner,Forest,NA
+"Vireo, Philadelphia",Vireo philadelphicus,VIPH,PHVI,6260,A,Woody Upper Canopy,Cup,"Insects, Fruit","Air, Foliage","Hover Gleaner, Foliage Gleaner",Forest,NA
+"Vireo, Red-eyed",Vireo olivaceus,VIOL,REVI,6240,A,"Shrub, Woody Upper Canopy",Cup,"Insects, Fruit","Air, Foliage","Hover Gleaner, Foliage Gleaner","Forest, Urban",NA
+"Vireo, Solitary",Vireo solitarius,VISO,SOVI,6290,A,Woody Lower Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Vireo, Warbling",Vireo gilvus,VIGI,WAVI,6270,A,"Woody Upper Canopy, Shrub",Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Riparian",NA
+"Vireo, White-eyed",Vireo griseus,VIGR,WEVI,6310,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Shrubland, Riparian",NA
+"Vireo, Yellow-throated",Vireo flavifrons,VIFL,YTVI,6280,A,Woody Upper Canopy,Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Forest, Forest Edge",NA
+"Vulture, Black",Coragyps atratus,COAT,BLVU,3260,R,"Cliff, Ground",None,"Carrion, Small Verts",Ground,"Scavenger, High Patrol","Grassland, Shrubland",NA
+"Vulture, Turkey",Cathartes aura,CAAU,TUVU,3250,B,"Cliff, Snag",None,Carrion,Ground,"Scavenger, High Patrol","Grassland, Shrubland",NA
+"Wagtail, White",Motacilla alba,MOAL,WHWA,6940,R,"Bank, Cliff",Crevice,"Insects, Aquatic Inverts","Ground, Air","Ground Gleaner, Hawker","Shoreline, Tundra",NA
+"Wagtail, Yellow",Motacilla flava,MOFL,YWAG,6960,R,Ground,Cup,"Insects, Aquatic Inverts","Ground, Air","Ground Gleaner, Hawker","Shoreline, Tundra",NA
+"Warbler, Arctic",Phylloscopus borealis,PHBO,ARWA,7470,R,Ground,Oven,Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Shrubland",NA
+"Warbler, Bachman’s",Vermivora bachmanii,VEBA,BAWA,6400,A,"Vine Tangle, Woody Lower Canopy",Cup,Insects,Foliage,Foliage Gleaner,Swamp/Marsh,NA
+"Warbler, Bay-breasted",Dendroica castanea,DECA2,BBWA,6600,A,Woody Upper Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Forest, Shrubland",NA
+"Warbler, Black-and-white",Mniotilta varia,MNVA,BAWW,6360,A,"Ground, Woody Lower Canopy",Cup,Insects,"Bark, Air","Bark Gleaner, Hawker",Forest,NA
+"Warbler, Blackburnian",Dendroica fusca,DEFU,BLBW,6620,A,Woody Upper Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hover Gleaner",Forest,NA
+"Warbler, Blackpoll",Dendroica striata,DEST,BLPW,6610,A,Woody Lower Canopy,Cup,"Insects, Fruit","Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Warbler, Black-throated Blue",Dendroica caerulescens,DECA1,BTBW,6540,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Air, Foliage","Hover Gleaner, Foliage Gleaner",Forest,NA
+"Warbler, Black-throated Gray",Dendroica nigrescens,DENI,BTYW,6650,A,Woody Upper Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest, Shrubland",NA
+"Warbler, Black-throated green",Dendroica virens,DEVI,BTNW,6670,A,Woody Upper Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Blue-winged",Vermivora pinus,VEPI,BWWA,6410,A,"Ground, Vine Tangle",Cup,Insects,Foliage,Foliage Gleaner,"Shrubland, Riparian",NA
+"Warbler, Canada",Wilsonia canadensis,WICA,CAWA,6860,A,Ground,Cup,Insects,"Air, Foliage","Hover Gleaner, Foliage Gleaner","Forest, Riparian",NA
+"Warbler, Cape May",Dendroica tigrina,DETI,CMWA,6500,A,Woody Upper Canopy,Cup,"Insects, Nectar","Foliage, Air","Foliage Gleaner, Hawker","Forest, Forest Edge",NA
+"Warbler, Cerulean",Dendroica cerulea,DECE,CERW,6580,A,Woody Upper Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Chestnut-sided",Dendroica pensylvanica,DEPE,CSWA,6590,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Forest",NA
+"Warbler, Colima",Vermivora crissalis,VECR,COLW,6471,C,Ground,Cup,Insects,"Foliage, Ground","Foliage Gleaner, Ground Gleaner",Forest,NA
+"Warbler, Connecticut",Oporornis agilis,OPAG,CONW,6780,A,"Ground, Shrub",Cup,"Insects, Seeds","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Swamp/Marsh, Forest",NA
+"Warbler, Golden-cheeked",Dendroica chrysoparia,DECH,GCWA,6660,A,Woody Lower Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Golden-winged",Vermivora chrysoptera,VECH,GWWA,6420,A,Ground,Cup,Insects,Foliage,Foliage Gleaner,"Grassland, Shrubland",NA
+"Warbler, Grace’s",Dendroica graciae,DEGR,GRWA,6640,A,Woody Upper Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Hermit",Dendroica occidentalis,DEOC,HEWA,6690,A,Woody Upper Canopy,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hover Gleaner",Forest,NA
+"Warbler, Hooded",Wilsonia citrina,WICI,HOWA,6840,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker","Forest, Riparian",NA
+"Warbler, Kentucky",Oporornis formosus,OPFO,KEWA,6770,A,"Ground, Shrub",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Warbler, Kirtland’s",Dendroica kirtlandii,DEKI,KIWA,6700,A,Ground,Cup,"Insects, Tree Sap","Foliage, Ground","Foliage Gleaner, Ground Gleaner",Forest,NA
+"Warbler, Lucy’s",Vermivora luciae,VELU,LUWA,6430,C,"Snag, Woody Lower Canopy",Cavity,Insects,"Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Forest",NA
+"Warbler, MacGillivray’s",Oporornis tolmiei,OPTO,MGWA,6800,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner","Riparian, Forest Edge",NA
+"Warbler, Magnolia",Dendroica magnolia,DEMA,MAWA,6570,A,"Woody Lower Canopy, Shrub",Cup,"Insects, Nectar","Air, Bark","Hover Gleaner, Bark Gleaner",Forest,NA
+"Warbler, Mourning",Oporornis philadelphia,OPPH,MOWA,6790,A,"Ground, Shrub",Cup,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner","Forest, Swamp/Marsh",NA
+"Warbler, Nashville",Vermivora ruficapilla,VERU,NAWA,6450,A,Ground,Cup,Insects,"Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest, Riparian",NA
+"Warbler, Olive",Peucedramus taeniatus,PETA,OLWA,6510,C,Woody Upper Canopy,Cup,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner",Forest,NA
+"Warbler, Orange-crowned",Vermivora celata,VECE,OCWA,6460,A,"Ground, Woody Lower Canopy",Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Forest, Riparian",NA
+"Warbler, Palm",Dendroica palmarum,DEPA,PAWA,6720,A,"Ground, Woody Lower Canopy",Cup,"Insects, Fruit","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Forest,NA
+"Warbler, Pine",Dendroica pinus,DEPI,PIWA,6710,R,Woody Upper Canopy,Cup,"Insects, Seeds","Bark, Foliage","Bark Gleaner, Foliage Gleaner",Forest,NA
+"Warbler, Prairie",Dendroica discolor,DEDI,PRAW,6730,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Forest Edge",NA
+"Warbler, Prothonotary",Protonotaria citrea,PRCI,PROW,6370,A,"Snag, Woody Lower Canopy",Cavity,"Insects, Aquatic Inverts","Bark, Foliage","Bark Gleaner, Foliage Gleaner","Swamp/Marsh, Riparian",NA
+"Warbler, Red-faced",Cardellina rubrifrons,CARU2,RFWA,6900,C,Ground,Cup,Insects,"Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Rufous-capped",Basileuterus rufifrons,BARU,RCWA,6921,R,Ground,Oven,Insects,"Foliage, Air","Foliage Gleaner, Hawker","Shrubland, Forest",NA
+"Warbler, Swainson’s",Limnothlypis swainsonii,LISW,SWWA,6380,A,"Shrub, Woody Lower Canopy",Cup,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Swamp/Marsh, Riparian",NA
+"Warbler, Tennessee",Vermivora peregrina,VEPE,TEWA,6470,A,Ground,Cup,"Insects, Fruit",Foliage,Foliage Gleaner,"Swamp/Marsh, Forest Edge",NA
+"Warbler, Townsend’s",Dendroica townsendi,DETO,TOWA,6680,A,Woody Lower Canopy,Cup,"Insects, Seeds","Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Virginia’s",Vermivora virginiae,VEVI,VIWA,6440,A,Ground,Cup,Insects,"Ground, Air","Ground Gleaner, Hawker",Shrubland,NA
+"Warbler, Wilson’s",Wilsonia pusilla,WIPU,WIWA,6850,A,"Ground, Vine Tangle",Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hover Gleaner","Shrubland, Riparian",NA
+"Warbler, Worm-eating",Helmitheros vermivorus,HEVE,WEWA,6390,A,Ground,Cup,Insects,"Foliage, Bark","Foliage Gleaner, Bark Gleaner","Riparian, Forest",NA
+"Warbler, Yellow",Dendroica petechia,DEPE1,YWAR,6520,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Riparian, Shrubland",NA
+"Warbler, Yellow-rumped",Dendroica coronata,DECO,YRWA,6550,B,Woody Upper Canopy,Cup,"Insects, Fruit","Foliage, Air","Foliage Gleaner, Hawker",Forest,NA
+"Warbler, Yellow-throated",Dendroica dominica,DEDO,YTWA,6630,A,Woody Upper Canopy,Cup,Insects,"Bark, Foliage","Bark Gleaner, Foliage Gleaner","Forest, Swamp/Marsh",NA
+"Waterthrush, Louisiana",Seiurus motacilla,SEMO,LOWA,6760,A,"Ground, Bank",Cup,"Aquatic Inverts, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Riparian, Swamp/Marsh",NA
+"Waterthrush, Northern",Seiurus noveboracensis,SENO,NOWA,6750,A,"Ground, Bank",Cup,"Aquatic Inverts, Insects","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Swamp/Marsh, Riparian",NA
+"Waxwing, Bohemian",Bombycilla garrulus,BOGA,BOWA,6180,R,Woody Upper Canopy,Cup,"Fruit, Insects","Foliage, Air","Foliage Gleaner, Hawker","Forest, Forest Edge",NA
+"Waxwing, Cedar",Bombycilla cedrorum,BOCE,CEDW,6190,B,Woody Upper Canopy,Cup,"Fruit, Insects","Foliage, Air","Foliage Gleaner, Hawker","Forest, Forest Edge",NA
+"Wheatear, Northern",Oenanthe oenanthe,OEOE,NOWH,7650,R,Ground,"Crevice, Burrow","Insects, Seeds","Ground, Air","Ground Gleaner, Hawker","Tundra, Rocky Slope",NA
+Whimbrel,Numenius phaeopus,NUPH,WHIM,2650,R,Ground,Scrape,"Insects, Fruit","Ground, Water","Ground Gleaner, Prober","Swamp/Marsh, Tundra",NA
+Whip-poor-will,Caprimulgus vociferus,CAVO,WPWI,4170,A,Ground,None,Insects,Air,Aerial Foraging,Forest,NA
+"Wigeon, American",Anas americana,ANAM,AMWI,1370,R,Ground,Scrape,"Greens, Aquatic Inverts",Water,Dabbler,"Swamp/Marsh, Freshwater",NA
+"Wigeon, Eurasian",Anas penelope,ANPE,EUWI,1360,R,Ground,Scrape,"Greens, Seeds",Water,Dabbler,"Coastal, Pelagic",NA
+Willet,Catoptrophorus semipalmatus,CASE,WILL,2580,R,Ground,Scrape,"Insects, Aquatic Inverts",Water,Prober,"Coastal, Pelagic",NA
+"Woodcock, American",Scolopax minor,SCMI,AMWO,2280,R,Ground,Scrape,Insects,"Ground, Water",Prober,"Swamp/Marsh, Riparian",NA
+"Woodpecker, Acorn",Melanerpes formicivorus,MEFO,ACWO,4070,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Nuts","Bark, Air","Bark Gleaner, Bark Gleaner",Forest,NA
+"Woodpecker, Black-backed",Picoides arcticus,PIAR,BBWO,4000,R,Snag,Cavity,"Insects, Seeds",Bark,Bark Gleaner,Forest,NA
+"Woodpecker, Downy",Picoides pubescens,PIPU,DOWO,3940,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit",Bark,Bark Gleaner,"Forest, Riparian",NA
+"Woodpecker, Gila",Melanerpes uropygialis,MEUR,GIWO,4110,R,"Cactus, Woody Upper Canopy",Cavity,"Insects, Fruit","Bark, Air","Bark Gleaner, Hawker","Desert, Urban",NA
+"Woodpecker, Golden-fronted",Melanerpes aurifrons,MEAU,GFWO,4100,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Nuts","Bark, Ground","Bark Gleaner, Ground Gleaner","Shrubland, Riparian",NA
+"Woodpecker, Hairy",Picoides villosus,PIVI,HAWO,3930,R,"Woody Upper Canopy, Snag",Cavity,Insects,Bark,Bark Gleaner,"Forest, Urban",NA
+"Woodpecker, Ivory-billed",Campephilus principalis,CAPR,IBWO,3920,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Seeds","Bark, Ground","Bark Gleaner, Ground Gleaner","Swamp/Marsh, Riparian",NA
+"Woodpecker, Ladder-backed",Picoides scalaris,PISC,LBWO,3960,R,"Woody Lower Canopy, Shrub",Cavity,"Insects, Fruit","Bark, Ground","Bark Gleaner, Ground Gleaner","Shrubland, Desert",NA
+"Woodpecker, Lewis’",Melanerpes lewis,MELE,LEWO,4080,B,"Woody Upper Canopy, Snag",Cavity,"Insects, Nuts","Air, Ground","Hawker, Ground Gleaner","Forest, Riparian",NA
+"Woodpecker, Nuttall’s",Picoides nuttallii,PINU1,NUWO,3970,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Bark, Air","Bark Gleaner, Hawker","Forest, Riparian",NA
+"Woodpecker, Pileated",Dryocopus pileatus,DRPI,PIWO,4050,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit",Bark,Bark Gleaner,"Forest, Urban",NA
+"Woodpecker, Red-bellied",Melanerpes carolinus,MECA,RBWO,4090,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Nuts","Bark, Air","Bark Gleaner, Hawker","Forest, Riparian",NA
+"Woodpecker, Red-cockaded",Picoides borealis,PIBO,RCWO,3950,R,Woody Upper Canopy,Cavity,"Insects, Fruit",Bark,Bark Gleaner,Forest,NA
+"Woodpecker, Red-headed",Melanerpes erythrocephalus,MEER,RHWO,4060,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Air, Ground","Hawker, Swooper","Forest, Urban",NA
+"Woodpecker, Strickland’s",Picoides stricklandi,PIST,STWO,3980,R,"Snag, Woody Upper Canopy",Cavity,"Insects, Fruit","Bark, Foliage","Bark Gleaner, Foliage Gleaner",Forest,NA
+"Woodpecker, Three-toed",Picoides tridactylus,PITR,TTWO,4010,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Tree Sap",Bark,Bark Gleaner,"Forest, Riparian",NA
+"Woodpecker, White-headed",Picoides albolarvatus,PIAL,WHWO,3990,R,"Snag, Woody Lower Canopy",Cavity,"Insects, Seeds","Bark, Ground","Bark Gleaner, Ground Gleaner",Forest,NA
+"Wren, Bewick’s",Thryomanes bewickii,THBE,BEWR,7190,R,"Woody Lower Canopy, Snag",Cavity,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Shrubland",NA
+"Wren, Cactus",Campylorhynchus brunneicapillus,CABR,CACW,7130,R,"Cactus, Woody Lower Canopy",Sphere,"Insects, Small Verts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Desert, Shrubland",NA
+"Wren, Canyon",Catherpes mexicanus,CAME3,CANW,7170,R,Cliff,Crevice,"Insects, Small Verts","Ground, Foliage","Ground Gleaner, Foliage Gleaner","Rocky Slope, Urban",NA
+"Wren, Carolina",Thryothorus ludovicianus,THLU,CARW,7180,R,"Woody Lower Canopy, Snag",Cavity,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Urban",NA
+"Wren, House",Troglodytes aedon,TRAE,HOWR,7210,A,"Woody Lower Canopy, Snag",Cavity,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Urban",NA
+"Wren, Marsh",Cistothorus palustris,CIPA,MAWR,7250,B,Reed,Sphere,"Insects, Aquatic Inverts","Ground, Foliage","Ground Gleaner, Foliage Gleaner",Swamp/Marsh,NA
+"Wren, Sedge",Cistothorus platensis,CIPL,SEWR,7240,B,Ground,Sphere,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner",Swamp/Marsh,NA
+"Wren, Winter",Troglodytes troglodytes,TRTR,WIWR,7220,R,"Snag, Woody Lower Canopy",Cavity,Insects,"Ground, Foliage","Ground Gleaner, Foliage Gleaner","Forest, Riparian",NA
+Wrentit,Chamaea fasciata,CHFA,WREN,7420,R,"Shrub, Woody Lower Canopy",Cup,"Insects, Fruit","Foliage, Bark","Foliage Gleaner, Bark Gleaner","Shrubland, Urban",NA
+"Yellowlegs, Greater",Tringa melanoleuca,TRME,GRYE,2540,R,Ground,Scrape,"Fish, Insects",Water,Prober,"Coastal, Freshwater",NA
+"Yellowlegs, Lesser",Tringa flavipes,TRFL,LEYE,2550,R,Ground,Scrape,"Insects, Aquatic Inverts","Water, Ground","Prober, Ground Gleaner",Tundra,NA
+"Yellowthroat, Common",Geothlypis trichas,GETR,COYE,6810,A,"Shrub, Woody Lower Canopy",Cup,"Insects, Seeds","Foliage, Air","Foliage Gleaner, Hover Gleaner","Forest Edge, Grassland",NA
+"Yellowthroat, Gray-crowned",Geothlypis poliocephala,GEPO,GCYE,6821,R,Ground,Cup,"Insects, Fruit","Foliage, Ground","Foliage Gleaner, Ground Gleaner","Forest Edge, Forest",NA
